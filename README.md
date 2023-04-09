@@ -33,10 +33,10 @@ And the following from merging on postcode
 | Merged from both tables: | 273479 |
 | Merged from Crime table only: | 84373 |
 | Merged from Property table only: | 42 |
-| 2073 of 2851 unique suburbs in Crime table have no property data | |
-| 42 of 820 unique localities in Property table have no crime data | |
-| 778 of 2851 unique suburbs in Crime table match localities in Property table | |
-| 778 of 820 unique localities in Property table match suburbs in Crime table | |
+| 2073 of 2851 unique suburbs in Crime table have no property data | 73% |
+| 42 of 820 unique localities in Property table have no crime data | 5% |
+| 778 of 2851 unique suburbs in Crime table match localities in Property table | 27% |
+| 778 of 820 unique localities in Property table match suburbs in Crime table | 95% |
 
 ## Test joining by OUTER join on Crime['Postcode'] <-> Property_Data_Postcode['Postcode']
 | Description | Value |
