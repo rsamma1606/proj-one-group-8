@@ -43,14 +43,14 @@ And the following from merging on postcode
 | ----------- | ----------- |
 | Length of Crime table: | 357852 |
 | Length of Property table: | 820 |
-| Length of merged table: | 785215 |
-| Merged from both tables: | 703720 |
-| Merged from Crime table only: | 81281 |
-| Merged from Property table only: | 214 |
-| 1197 of 2851 unique suburbs in Crime table have no property data | 42% |
-| 214 of 820 unique localities in Property table have no crime data | 26% |
-| 1670 of 2851 unique suburbs in Crime table match localities in Property table | 59% |
-| 606 of 820 unique localities in Property table match suburbs in Crime table | 74% |
+| Length of merged table: | 904563 |
+| Merged from both tables: | 872151 |
+| Merged from Crime table only: | 32381 |
+| Merged from Property table only: | 31 |
+| 733 of 2851 unique suburbs in Crime table have no property data | 26% |
+| 31 of 820 unique localities in Property table have no crime data | 4% |
+| 2125 of 2851 unique suburbs in Crime table match localities in Property table | 75% |
+| 789 of 820 unique localities in Property table match suburbs in Crime table | 96% |
 
 
 * Data analysis
