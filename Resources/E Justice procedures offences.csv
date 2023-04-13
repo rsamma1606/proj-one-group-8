@@ -933,14 +933,14 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2013,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,9,1074000.0
 2014,Bayside,3193,Beaumaris,E Justice procedures offences,E10 Justice procedures,1,1129500.0
 2014,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,19,1129500.0
-2015,Bayside,3192,Beaumaris,E Justice procedures offences,E20 Breaches of orders,2,1345000.0
+2015,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,2,1345000.0
 2015,Bayside,3193,Beaumaris,E Justice procedures offences,E10 Justice procedures,4,1345000.0
 2015,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,21,1345000.0
 2016,Bayside,3193,Beaumaris,E Justice procedures offences,E10 Justice procedures,2,1455000.0
 2016,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,46,1455000.0
 2017,Bayside,3193,Beaumaris,E Justice procedures offences,E10 Justice procedures,4,1611000.0
 2017,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,21,1611000.0
-2018,Bayside,3192,Beaumaris,E Justice procedures offences,E20 Breaches of orders,2,1674000.0
+2018,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,2,1674000.0
 2018,Bayside,3193,Beaumaris,E Justice procedures offences,E10 Justice procedures,5,1674000.0
 2018,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,70,1674000.0
 2019,Bayside,3193,Beaumaris,E Justice procedures offences,E10 Justice procedures,2,1587500.0
@@ -949,7 +949,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,36,1725000.0
 2021,Bayside,3193,Beaumaris,E Justice procedures offences,E10 Justice procedures,1,2100000.0
 2021,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,31,2100000.0
-2022,Bayside,3192,Beaumaris,E Justice procedures offences,E20 Breaches of orders,1,2060000.0
+2022,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,1,2060000.0
 2022,Bayside,3193,Beaumaris,E Justice procedures offences,E10 Justice procedures,8,2060000.0
 2022,Bayside,3193,Beaumaris,E Justice procedures offences,E20 Breaches of orders,39,2060000.0
 2014,Colac-Otway,3251,Beeac,E Justice procedures offences,E20 Breaches of orders,1,162500.0
@@ -1637,7 +1637,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2017,Bayside,3187,Brighton East,E Justice procedures offences,E20 Breaches of orders,56,1900000.0
 2018,Bayside,3187,Brighton East,E Justice procedures offences,E10 Justice procedures,4,1880000.0
 2018,Bayside,3187,Brighton East,E Justice procedures offences,E20 Breaches of orders,44,1880000.0
-2018,Bayside,3188,Brighton East,E Justice procedures offences,E20 Breaches of orders,1,1880000.0
+2018,Bayside,3187,Brighton East,E Justice procedures offences,E20 Breaches of orders,1,1880000.0
 2019,Bayside,3187,Brighton East,E Justice procedures offences,E10 Justice procedures,10,1700000.0
 2019,Bayside,3187,Brighton East,E Justice procedures offences,E20 Breaches of orders,28,1700000.0
 2020,Bayside,3187,Brighton East,E Justice procedures offences,E10 Justice procedures,7,1965000.0
@@ -1646,7 +1646,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Bayside,3187,Brighton East,E Justice procedures offences,E20 Breaches of orders,64,2250000.0
 2022,Bayside,3187,Brighton East,E Justice procedures offences,E10 Justice procedures,3,2160000.0
 2022,Bayside,3187,Brighton East,E Justice procedures offences,E20 Breaches of orders,79,2160000.0
-2022,Bayside,3188,Brighton East,E Justice procedures offences,E20 Breaches of orders,1,2160000.0
+2022,Bayside,3187,Brighton East,E Justice procedures offences,E20 Breaches of orders,1,2160000.0
 2013,Mitchell,3658,Broadford,E Justice procedures offences,E10 Justice procedures,2,291000.0
 2013,Mitchell,3658,Broadford,E Justice procedures offences,E20 Breaches of orders,21,291000.0
 2014,Mitchell,3658,Broadford,E Justice procedures offences,E10 Justice procedures,1,267000.0
@@ -1766,29 +1766,29 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Merri-bek,3056,Brunswick,E Justice procedures offences,E20 Breaches of orders,183,1325000.0
 2013,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,3,767000.0
 2013,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,10,767000.0
-2014,Merri-bek,3056,Brunswick East,E Justice procedures offences,E20 Breaches of orders,2,819500.0
+2014,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,2,819500.0
 2014,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,15,819500.0
 2014,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,33,819500.0
 2015,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,14,888000.0
 2015,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,26,888000.0
-2016,Merri-bek,3056,Brunswick East,E Justice procedures offences,E10 Justice procedures,3,998000.0
+2016,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,3,998000.0
 2016,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,12,998000.0
 2016,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,20,998000.0
 2017,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,6,1150000.0
 2017,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,52,1150000.0
 2018,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,10,1170000.0
 2018,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,29,1170000.0
-2019,Merri-bek,3056,Brunswick East,E Justice procedures offences,E10 Justice procedures,1,1011500.0
-2019,Merri-bek,3056,Brunswick East,E Justice procedures offences,E20 Breaches of orders,3,1011500.0
+2019,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,1,1011500.0
+2019,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,3,1011500.0
 2019,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,17,1011500.0
 2019,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,17,1011500.0
-2020,Merri-bek,3056,Brunswick East,E Justice procedures offences,E10 Justice procedures,1,1283000.0
+2020,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,1,1283000.0
 2020,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,5,1283000.0
 2020,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,24,1283000.0
 2021,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,11,1420000.0
 2021,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,61,1420000.0
-2022,Merri-bek,3056,Brunswick East,E Justice procedures offences,E10 Justice procedures,1,1360000.0
-2022,Merri-bek,3056,Brunswick East,E Justice procedures offences,E20 Breaches of orders,2,1360000.0
+2022,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,1,1360000.0
+2022,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,2,1360000.0
 2022,Merri-bek,3057,Brunswick East,E Justice procedures offences,E10 Justice procedures,11,1360000.0
 2022,Merri-bek,3057,Brunswick East,E Justice procedures offences,E20 Breaches of orders,53,1360000.0
 2013,Merri-bek,3055,Brunswick West,E Justice procedures offences,E10 Justice procedures,1,745000.0
@@ -1843,7 +1843,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Manningham,3105,Bulleen,E Justice procedures offences,E20 Breaches of orders,21,1360000.0
 2022,Manningham,3105,Bulleen,E Justice procedures offences,E10 Justice procedures,9,1341000.0
 2022,Manningham,3105,Bulleen,E Justice procedures offences,E20 Breaches of orders,39,1341000.0
-2022,Manningham,3108,Bulleen,E Justice procedures offences,E20 Breaches of orders,1,1341000.0
+2022,Manningham,3105,Bulleen,E Justice procedures offences,E20 Breaches of orders,1,1341000.0
 2016,Moira,3730,Bundalong,E Justice procedures offences,E10 Justice procedures,1,425000.0
 2018,Moira,3730,Bundalong,E Justice procedures offences,E20 Breaches of orders,2,462000.0
 2020,Moira,3730,Bundalong,E Justice procedures offences,E10 Justice procedures,1,725000.0
@@ -2212,13 +2212,13 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Central Goldfields,3464,Carisbrook,E Justice procedures offences,E20 Breaches of orders,7,555000.0
 2013,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,9,1002500.0
 2013,Melbourne,3053,Carlton,E Justice procedures offences,E20 Breaches of orders,40,1002500.0
-2014,Melbourne,3000,Carlton,E Justice procedures offences,E10 Justice procedures,1,1020000.0
+2014,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,1,1020000.0
 2014,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,16,1020000.0
 2014,Melbourne,3053,Carlton,E Justice procedures offences,E20 Breaches of orders,49,1020000.0
-2015,Melbourne,3000,Carlton,E Justice procedures offences,E10 Justice procedures,1,830000.0
+2015,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,1,830000.0
 2015,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,32,830000.0
 2015,Melbourne,3053,Carlton,E Justice procedures offences,E20 Breaches of orders,80,830000.0
-2016,Melbourne,3000,Carlton,E Justice procedures offences,E10 Justice procedures,1,1050000.0
+2016,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,1,1050000.0
 2016,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,36,1050000.0
 2016,Melbourne,3053,Carlton,E Justice procedures offences,E20 Breaches of orders,81,1050000.0
 2017,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,26,1470000.0
@@ -2229,10 +2229,10 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2019,Melbourne,3053,Carlton,E Justice procedures offences,E20 Breaches of orders,83,1308000.0
 2020,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,30,1452500.0
 2020,Melbourne,3053,Carlton,E Justice procedures offences,E20 Breaches of orders,90,1452500.0
-2021,Melbourne,3000,Carlton,E Justice procedures offences,E10 Justice procedures,2,1492500.0
+2021,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,2,1492500.0
 2021,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,26,1492500.0
 2021,Melbourne,3053,Carlton,E Justice procedures offences,E20 Breaches of orders,83,1492500.0
-2022,Melbourne,3000,Carlton,E Justice procedures offences,E10 Justice procedures,3,1600000.0
+2022,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,3,1600000.0
 2022,Melbourne,3053,Carlton,E Justice procedures offences,E10 Justice procedures,20,1600000.0
 2022,Melbourne,3053,Carlton,E Justice procedures offences,E20 Breaches of orders,88,1600000.0
 2013,Yarra,3054,Carlton North,E Justice procedures offences,E20 Breaches of orders,5,890500.0
@@ -2659,39 +2659,39 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Kingston,3169,Clayton South,E Justice procedures offences,E20 Breaches of orders,93,980000.0
 2022,Kingston,3169,Clayton South,E Justice procedures offences,E10 Justice procedures,13,1032500.0
 2022,Kingston,3169,Clayton South,E Justice procedures offences,E20 Breaches of orders,95,1032500.0
-2013,Yarra,3066,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,1,867000.0
+2013,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,1,867000.0
 2013,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,6,867000.0
 2013,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,2,867000.0
-2014,Yarra,3066,Clifton Hill,E Justice procedures offences,E10 Justice procedures,2,965000.0
-2014,Yarra,3066,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,2,965000.0
+2014,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,2,965000.0
+2014,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,2,965000.0
 2014,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,6,965000.0
 2014,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,14,965000.0
 2015,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,6,1085000.0
 2015,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,30,1085000.0
-2016,Yarra,3066,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1220000.0
+2016,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1220000.0
 2016,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,8,1220000.0
 2016,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,17,1220000.0
-2017,Yarra,3066,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1390000.0
-2017,Yarra,3067,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1390000.0
+2017,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1390000.0
+2017,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1390000.0
 2017,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,3,1390000.0
 2017,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,22,1390000.0
-2018,Yarra,3066,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,1,1364500.0
-2018,Yarra,3067,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1364500.0
+2018,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,1,1364500.0
+2018,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1364500.0
 2018,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,3,1364500.0
 2018,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,13,1364500.0
-2019,Yarra,3066,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1348000.0
+2019,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1348000.0
 2019,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,10,1348000.0
 2019,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,6,1348000.0
-2020,Yarra,3066,Clifton Hill,E Justice procedures offences,E10 Justice procedures,2,1375000.0
-2020,Yarra,3066,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,1,1375000.0
-2020,Yarra,3067,Clifton Hill,E Justice procedures offences,E10 Justice procedures,2,1375000.0
+2020,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,2,1375000.0
+2020,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,1,1375000.0
+2020,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,2,1375000.0
 2020,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,9,1375000.0
 2020,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,16,1375000.0
-2021,Yarra,3066,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1750000.0
-2021,Yarra,3067,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,2,1750000.0
+2021,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1750000.0
+2021,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,2,1750000.0
 2021,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,6,1750000.0
 2021,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,19,1750000.0
-2022,Yarra,3067,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1670000.0
+2022,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,1,1670000.0
 2022,Yarra,3068,Clifton Hill,E Justice procedures offences,E10 Justice procedures,6,1670000.0
 2022,Yarra,3068,Clifton Hill,E Justice procedures offences,E20 Breaches of orders,26,1670000.0
 2013,Greater Geelong,3222,Clifton Springs,E Justice procedures offences,E10 Justice procedures,1,336000.0
@@ -3676,11 +3676,11 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2013,Manningham,3108,Doncaster,E Justice procedures offences,E20 Breaches of orders,60,850000.0
 2014,Manningham,3108,Doncaster,E Justice procedures offences,E10 Justice procedures,9,999000.0
 2014,Manningham,3108,Doncaster,E Justice procedures offences,E20 Breaches of orders,87,999000.0
-2015,Manningham,3107,Doncaster,E Justice procedures offences,E10 Justice procedures,1,1176000.0
-2015,Manningham,3107,Doncaster,E Justice procedures offences,E20 Breaches of orders,1,1176000.0
+2015,Manningham,3108,Doncaster,E Justice procedures offences,E10 Justice procedures,1,1176000.0
+2015,Manningham,3108,Doncaster,E Justice procedures offences,E20 Breaches of orders,1,1176000.0
 2015,Manningham,3108,Doncaster,E Justice procedures offences,E10 Justice procedures,14,1176000.0
 2015,Manningham,3108,Doncaster,E Justice procedures offences,E20 Breaches of orders,118,1176000.0
-2016,Manningham,3107,Doncaster,E Justice procedures offences,E20 Breaches of orders,1,1297500.0
+2016,Manningham,3108,Doncaster,E Justice procedures offences,E20 Breaches of orders,1,1297500.0
 2016,Manningham,3108,Doncaster,E Justice procedures offences,E10 Justice procedures,18,1297500.0
 2016,Manningham,3108,Doncaster,E Justice procedures offences,E20 Breaches of orders,67,1297500.0
 2017,Manningham,3108,Doncaster,E Justice procedures offences,E10 Justice procedures,18,1366500.0
@@ -4773,26 +4773,26 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Cardinia,3814,Garfield,E Justice procedures offences,E10 Justice procedures,3,715000.0
 2021,Cardinia,3814,Garfield,E Justice procedures offences,E20 Breaches of orders,17,715000.0
 2022,Cardinia,3814,Garfield,E Justice procedures offences,E20 Breaches of orders,11,795000.0
-2013,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,71,500000.0
-2013,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,333,500000.0
-2014,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,91,512000.0
-2014,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,502,512000.0
-2015,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,114,607500.0
-2015,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,472,607500.0
-2016,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,107,590000.0
-2016,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,516,590000.0
-2017,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,146,735000.0
-2017,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,479,735000.0
-2018,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,106,750000.0
-2018,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,461,750000.0
-2019,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,97,720000.0
-2019,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,591,720000.0
-2020,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,111,883500.0
-2020,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,557,883500.0
-2021,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,89,950000.0
-2021,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,608,950000.0
-2022,Greater Geelong,3220,Geelong,E Justice procedures offences,E10 Justice procedures,91,850000.0
-2022,Greater Geelong,3220,Geelong,E Justice procedures offences,E20 Breaches of orders,597,850000.0
+2013,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,71,500000.0
+2013,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,333,500000.0
+2014,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,91,512000.0
+2014,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,502,512000.0
+2015,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,114,607500.0
+2015,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,472,607500.0
+2016,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,107,590000.0
+2016,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,516,590000.0
+2017,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,146,735000.0
+2017,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,479,735000.0
+2018,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,106,750000.0
+2018,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,461,750000.0
+2019,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,97,720000.0
+2019,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,591,720000.0
+2020,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,111,883500.0
+2020,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,557,883500.0
+2021,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,89,950000.0
+2021,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,608,950000.0
+2022,Greater Geelong,3219,Geelong,E Justice procedures offences,E10 Justice procedures,91,850000.0
+2022,Greater Geelong,3219,Geelong,E Justice procedures offences,E20 Breaches of orders,597,850000.0
 2013,Greater Geelong,3218,Geelong West,E Justice procedures offences,E10 Justice procedures,1,440000.0
 2013,Greater Geelong,3218,Geelong West,E Justice procedures offences,E20 Breaches of orders,30,440000.0
 2014,Greater Geelong,3218,Geelong West,E Justice procedures offences,E10 Justice procedures,9,469000.0
@@ -5585,7 +5585,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2014,Bayside,3190,Highett,E Justice procedures offences,E20 Breaches of orders,99,850000.0
 2015,Bayside,3190,Highett,E Justice procedures offences,E10 Justice procedures,19,992500.0
 2015,Bayside,3190,Highett,E Justice procedures offences,E20 Breaches of orders,84,992500.0
-2015,Bayside,3192,Highett,E Justice procedures offences,E20 Breaches of orders,1,992500.0
+2015,Bayside,3190,Highett,E Justice procedures offences,E20 Breaches of orders,1,992500.0
 2016,Bayside,3190,Highett,E Justice procedures offences,E10 Justice procedures,10,1175000.0
 2016,Bayside,3190,Highett,E Justice procedures offences,E20 Breaches of orders,131,1175000.0
 2017,Bayside,3190,Highett,E Justice procedures offences,E10 Justice procedures,22,1318500.0
@@ -5594,8 +5594,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2018,Bayside,3190,Highett,E Justice procedures offences,E20 Breaches of orders,178,1275000.0
 2019,Bayside,3190,Highett,E Justice procedures offences,E10 Justice procedures,10,1234000.0
 2019,Bayside,3190,Highett,E Justice procedures offences,E20 Breaches of orders,238,1234000.0
-2019,Bayside,3192,Highett,E Justice procedures offences,E10 Justice procedures,1,1234000.0
-2019,Bayside,3192,Highett,E Justice procedures offences,E20 Breaches of orders,1,1234000.0
+2019,Bayside,3190,Highett,E Justice procedures offences,E10 Justice procedures,1,1234000.0
+2019,Bayside,3190,Highett,E Justice procedures offences,E20 Breaches of orders,1,1234000.0
 2020,Bayside,3190,Highett,E Justice procedures offences,E10 Justice procedures,13,1325000.0
 2020,Bayside,3190,Highett,E Justice procedures offences,E20 Breaches of orders,264,1325000.0
 2021,Bayside,3190,Highett,E Justice procedures offences,E10 Justice procedures,11,1585500.0
@@ -5713,24 +5713,24 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Monash,3166,Huntingdale,E Justice procedures offences,E20 Breaches of orders,7,1299500.0
 2022,Monash,3166,Huntingdale,E Justice procedures offences,E10 Justice procedures,2,1225000.0
 2022,Monash,3166,Huntingdale,E Justice procedures offences,E20 Breaches of orders,23,1225000.0
-2013,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,5,337500.0
-2014,Greater Bendigo,3551,Huntly,E Justice procedures offences,E10 Justice procedures,1,325000.0
-2014,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,4,325000.0
-2015,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,1,355000.0
-2016,Greater Bendigo,3551,Huntly,E Justice procedures offences,E10 Justice procedures,7,340000.0
-2016,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,11,340000.0
-2017,Greater Bendigo,3551,Huntly,E Justice procedures offences,E10 Justice procedures,1,335000.0
-2017,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,5,335000.0
-2018,Greater Bendigo,3551,Huntly,E Justice procedures offences,E10 Justice procedures,17,357500.0
-2018,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,13,357500.0
-2019,Greater Bendigo,3551,Huntly,E Justice procedures offences,E10 Justice procedures,4,367500.0
-2019,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,29,367500.0
-2020,Greater Bendigo,3551,Huntly,E Justice procedures offences,E10 Justice procedures,4,388000.0
-2020,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,32,388000.0
-2021,Greater Bendigo,3551,Huntly,E Justice procedures offences,E10 Justice procedures,4,486000.0
-2021,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,40,486000.0
-2022,Greater Bendigo,3551,Huntly,E Justice procedures offences,E10 Justice procedures,2,548000.0
-2022,Greater Bendigo,3551,Huntly,E Justice procedures offences,E20 Breaches of orders,30,548000.0
+2013,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,5,337500.0
+2014,Greater Bendigo,3163,Huntly,E Justice procedures offences,E10 Justice procedures,1,325000.0
+2014,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,4,325000.0
+2015,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,1,355000.0
+2016,Greater Bendigo,3163,Huntly,E Justice procedures offences,E10 Justice procedures,7,340000.0
+2016,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,11,340000.0
+2017,Greater Bendigo,3163,Huntly,E Justice procedures offences,E10 Justice procedures,1,335000.0
+2017,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,5,335000.0
+2018,Greater Bendigo,3163,Huntly,E Justice procedures offences,E10 Justice procedures,17,357500.0
+2018,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,13,357500.0
+2019,Greater Bendigo,3163,Huntly,E Justice procedures offences,E10 Justice procedures,4,367500.0
+2019,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,29,367500.0
+2020,Greater Bendigo,3163,Huntly,E Justice procedures offences,E10 Justice procedures,4,388000.0
+2020,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,32,388000.0
+2021,Greater Bendigo,3163,Huntly,E Justice procedures offences,E10 Justice procedures,4,486000.0
+2021,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,40,486000.0
+2022,Greater Bendigo,3163,Huntly,E Justice procedures offences,E10 Justice procedures,2,548000.0
+2022,Greater Bendigo,3163,Huntly,E Justice procedures offences,E20 Breaches of orders,30,548000.0
 2013,Nillumbik,3099,Hurstbridge,E Justice procedures offences,E20 Breaches of orders,3,482000.0
 2014,Nillumbik,3099,Hurstbridge,E Justice procedures offences,E10 Justice procedures,1,482000.0
 2014,Nillumbik,3099,Hurstbridge,E Justice procedures offences,E20 Breaches of orders,6,482000.0
@@ -5885,7 +5885,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Banyule,3079,Ivanhoe East,E Justice procedures offences,E20 Breaches of orders,11,2207500.0
 2022,Banyule,3079,Ivanhoe East,E Justice procedures offences,E10 Justice procedures,1,2670000.0
 2022,Banyule,3079,Ivanhoe East,E Justice procedures offences,E20 Breaches of orders,7,2670000.0
-2022,Banyule,3084,Ivanhoe East,E Justice procedures offences,E10 Justice procedures,1,2670000.0
+2022,Banyule,3079,Ivanhoe East,E Justice procedures offences,E10 Justice procedures,1,2670000.0
 2013,Hume,3047,Jacana,E Justice procedures offences,E10 Justice procedures,6,334000.0
 2013,Hume,3047,Jacana,E Justice procedures offences,E20 Breaches of orders,3,334000.0
 2014,Hume,3047,Jacana,E Justice procedures offences,E10 Justice procedures,4,342500.0
@@ -9440,22 +9440,22 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2019,Bass Coast,3984,Pioneer Bay,E Justice procedures offences,E20 Breaches of orders,17,310000.0
 2020,Bass Coast,3984,Pioneer Bay,E Justice procedures offences,E20 Breaches of orders,8,355000.0
 2021,Bass Coast,3984,Pioneer Bay,E Justice procedures offences,E20 Breaches of orders,10,354000.0
-2014,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,14,750000.0
-2015,Nillumbik,3090,Plenty,E Justice procedures offences,E10 Justice procedures,1,915500.0
-2015,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,1,915500.0
-2016,Nillumbik,3090,Plenty,E Justice procedures offences,E10 Justice procedures,4,935000.0
-2016,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,28,935000.0
-2017,Nillumbik,3090,Plenty,E Justice procedures offences,E10 Justice procedures,4,1145000.0
-2017,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,11,1145000.0
-2018,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,4,1350000.0
-2019,Nillumbik,3090,Plenty,E Justice procedures offences,E10 Justice procedures,1,1301000.0
-2019,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,4,1301000.0
-2020,Nillumbik,3090,Plenty,E Justice procedures offences,E10 Justice procedures,1,1202500.0
-2020,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,5,1202500.0
-2021,Nillumbik,3090,Plenty,E Justice procedures offences,E10 Justice procedures,3,1610000.0
-2021,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,17,1610000.0
-2022,Nillumbik,3090,Plenty,E Justice procedures offences,E10 Justice procedures,2,1600000.0
-2022,Nillumbik,3090,Plenty,E Justice procedures offences,E20 Breaches of orders,3,1600000.0
+2014,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,14,750000.0
+2015,Nillumbik,3093,Plenty,E Justice procedures offences,E10 Justice procedures,1,915500.0
+2015,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,1,915500.0
+2016,Nillumbik,3093,Plenty,E Justice procedures offences,E10 Justice procedures,4,935000.0
+2016,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,28,935000.0
+2017,Nillumbik,3093,Plenty,E Justice procedures offences,E10 Justice procedures,4,1145000.0
+2017,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,11,1145000.0
+2018,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,4,1350000.0
+2019,Nillumbik,3093,Plenty,E Justice procedures offences,E10 Justice procedures,1,1301000.0
+2019,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,4,1301000.0
+2020,Nillumbik,3093,Plenty,E Justice procedures offences,E10 Justice procedures,1,1202500.0
+2020,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,5,1202500.0
+2021,Nillumbik,3093,Plenty,E Justice procedures offences,E10 Justice procedures,3,1610000.0
+2021,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,17,1610000.0
+2022,Nillumbik,3093,Plenty,E Justice procedures offences,E10 Justice procedures,2,1600000.0
+2022,Nillumbik,3093,Plenty,E Justice procedures offences,E20 Breaches of orders,3,1600000.0
 2013,Wyndham,3030,Point Cook,E Justice procedures offences,E10 Justice procedures,3,450000.0
 2013,Wyndham,3030,Point Cook,E Justice procedures offences,E20 Breaches of orders,40,450000.0
 2014,Wyndham,3030,Point Cook,E Justice procedures offences,E10 Justice procedures,7,445000.0
@@ -9839,26 +9839,26 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2019,Bass Coast,3923,Rhyll,E Justice procedures offences,E20 Breaches of orders,1,565000.0
 2021,Bass Coast,3923,Rhyll,E Justice procedures offences,E20 Breaches of orders,9,781500.0
 2022,Bass Coast,3923,Rhyll,E Justice procedures offences,E20 Breaches of orders,3,935000.0
-2013,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,37,900000.0
-2013,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,43,900000.0
-2014,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,67,961000.0
-2014,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,189,961000.0
-2015,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,46,1150000.0
-2015,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,195,1150000.0
-2016,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,59,1265000.0
-2016,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,286,1265000.0
-2017,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,70,1302500.0
-2017,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,287,1302500.0
-2018,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,58,1312000.0
-2018,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,294,1312000.0
-2019,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,70,1260000.0
-2019,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,244,1260000.0
-2020,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,64,1365000.0
-2020,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,327,1365000.0
-2021,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,91,1480000.0
-2021,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,286,1480000.0
-2022,Yarra,3121,Richmond,E Justice procedures offences,E10 Justice procedures,31,1385000.0
-2022,Yarra,3121,Richmond,E Justice procedures offences,E20 Breaches of orders,306,1385000.0
+2013,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,37,900000.0
+2013,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,43,900000.0
+2014,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,67,961000.0
+2014,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,189,961000.0
+2015,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,46,1150000.0
+2015,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,195,1150000.0
+2016,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,59,1265000.0
+2016,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,286,1265000.0
+2017,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,70,1302500.0
+2017,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,287,1302500.0
+2018,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,58,1312000.0
+2018,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,294,1312000.0
+2019,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,70,1260000.0
+2019,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,244,1260000.0
+2020,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,64,1365000.0
+2020,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,327,1365000.0
+2021,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,91,1480000.0
+2021,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,286,1480000.0
+2022,Yarra,3305,Richmond,E Justice procedures offences,E10 Justice procedures,31,1385000.0
+2022,Yarra,3305,Richmond,E Justice procedures offences,E20 Breaches of orders,306,1385000.0
 2013,Macedon Ranges,3431,Riddells Creek,E Justice procedures offences,E20 Breaches of orders,34,450000.0
 2014,Macedon Ranges,3431,Riddells Creek,E Justice procedures offences,E20 Breaches of orders,4,417500.0
 2015,Macedon Ranges,3431,Riddells Creek,E Justice procedures offences,E20 Breaches of orders,7,456500.0
@@ -10233,26 +10233,26 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Greater Bendigo,3556,Sailors Gully,E Justice procedures offences,E20 Breaches of orders,1,390000.0
 2022,Greater Bendigo,3556,Sailors Gully,E Justice procedures offences,E10 Justice procedures,1,470000.0
 2022,Greater Bendigo,3556,Sailors Gully,E Justice procedures offences,E20 Breaches of orders,4,470000.0
-2013,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,24,290000.0
-2013,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,177,290000.0
-2014,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,51,300000.0
-2014,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,293,300000.0
-2015,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,94,298000.0
-2015,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,365,298000.0
-2016,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,117,295500.0
-2016,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,351,295500.0
-2017,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,68,300000.0
-2017,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,260,300000.0
-2018,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,64,309500.0
-2018,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,392,309500.0
-2019,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,92,325000.0
-2019,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,517,325000.0
-2020,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,104,345000.0
-2020,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,565,345000.0
-2021,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,87,399500.0
-2021,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,459,399500.0
-2022,Wellington,3850,Sale,E Justice procedures offences,E10 Justice procedures,87,515000.0
-2022,Wellington,3850,Sale,E Justice procedures offences,E20 Breaches of orders,581,515000.0
+2013,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,24,290000.0
+2013,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,177,290000.0
+2014,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,51,300000.0
+2014,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,293,300000.0
+2015,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,94,298000.0
+2015,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,365,298000.0
+2016,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,117,295500.0
+2016,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,351,295500.0
+2017,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,68,300000.0
+2017,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,260,300000.0
+2018,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,64,309500.0
+2018,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,392,309500.0
+2019,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,92,325000.0
+2019,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,517,325000.0
+2020,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,104,345000.0
+2020,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,565,345000.0
+2021,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,87,399500.0
+2021,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,459,399500.0
+2022,Wellington,3852,Sale,E Justice procedures offences,E10 Justice procedures,87,515000.0
+2022,Wellington,3852,Sale,E Justice procedures offences,E20 Breaches of orders,581,515000.0
 2013,Bass Coast,3925,San Remo,E Justice procedures offences,E20 Breaches of orders,2,410000.0
 2014,Bass Coast,3925,San Remo,E Justice procedures offences,E10 Justice procedures,10,407000.0
 2014,Bass Coast,3925,San Remo,E Justice procedures offences,E20 Breaches of orders,3,407000.0
@@ -11346,19 +11346,19 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Brimbank,3037,Sydenham,E Justice procedures offences,E20 Breaches of orders,59,706000.0
 2022,Brimbank,3037,Sydenham,E Justice procedures offences,E10 Justice procedures,5,675000.0
 2022,Brimbank,3037,Sydenham,E Justice procedures offences,E20 Breaches of orders,73,675000.0
-2014,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,2,200000.0
-2015,Towong,3700,Tallangatta,E Justice procedures offences,E10 Justice procedures,1,233000.0
-2015,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,5,233000.0
-2016,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,21,216000.0
-2017,Towong,3700,Tallangatta,E Justice procedures offences,E10 Justice procedures,1,275000.0
-2017,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,4,275000.0
-2018,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,2,245000.0
-2019,Towong,3700,Tallangatta,E Justice procedures offences,E10 Justice procedures,3,257500.0
-2019,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,5,257500.0
-2020,Towong,3700,Tallangatta,E Justice procedures offences,E10 Justice procedures,1,280000.0
-2020,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,11,280000.0
-2021,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,5,350000.0
-2022,Towong,3700,Tallangatta,E Justice procedures offences,E20 Breaches of orders,3,432000.0
+2014,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,2,200000.0
+2015,Towong,3701,Tallangatta,E Justice procedures offences,E10 Justice procedures,1,233000.0
+2015,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,5,233000.0
+2016,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,21,216000.0
+2017,Towong,3701,Tallangatta,E Justice procedures offences,E10 Justice procedures,1,275000.0
+2017,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,4,275000.0
+2018,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,2,245000.0
+2019,Towong,3701,Tallangatta,E Justice procedures offences,E10 Justice procedures,3,257500.0
+2019,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,5,257500.0
+2020,Towong,3701,Tallangatta,E Justice procedures offences,E10 Justice procedures,1,280000.0
+2020,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,11,280000.0
+2021,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,5,350000.0
+2022,Towong,3701,Tallangatta,E Justice procedures offences,E20 Breaches of orders,3,432000.0
 2013,Wyndham,3029,Tarneit,E Justice procedures offences,E10 Justice procedures,5,371000.0
 2013,Wyndham,3029,Tarneit,E Justice procedures offences,E20 Breaches of orders,51,371000.0
 2014,Wyndham,3029,Tarneit,E Justice procedures offences,E10 Justice procedures,4,395000.0
@@ -12088,26 +12088,26 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Yarra Ranges,3139,Wandin North,E Justice procedures offences,E20 Breaches of orders,22,765000.0
 2022,Yarra Ranges,3139,Wandin North,E Justice procedures offences,E10 Justice procedures,1,900000.0
 2022,Yarra Ranges,3139,Wandin North,E Justice procedures offences,E20 Breaches of orders,29,900000.0
-2013,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,82,240000.0
-2013,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,150,240000.0
-2014,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,108,255000.0
-2014,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,314,255000.0
-2015,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,69,272000.0
-2015,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,277,272000.0
-2016,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,50,270500.0
-2016,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,325,270500.0
-2017,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,84,270000.0
-2017,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,250,270000.0
-2018,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,75,320000.0
-2018,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,334,320000.0
-2019,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,72,319000.0
-2019,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,371,319000.0
-2020,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,120,356500.0
-2020,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,415,356500.0
-2021,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,70,425000.0
-2021,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,425,425000.0
-2022,Wangaratta,3677,Wangaratta,E Justice procedures offences,E10 Justice procedures,77,530000.0
-2022,Wangaratta,3677,Wangaratta,E Justice procedures offences,E20 Breaches of orders,466,530000.0
+2013,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,82,240000.0
+2013,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,150,240000.0
+2014,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,108,255000.0
+2014,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,314,255000.0
+2015,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,69,272000.0
+2015,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,277,272000.0
+2016,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,50,270500.0
+2016,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,325,270500.0
+2017,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,84,270000.0
+2017,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,250,270000.0
+2018,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,75,320000.0
+2018,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,334,320000.0
+2019,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,72,319000.0
+2019,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,371,319000.0
+2020,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,120,356500.0
+2020,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,415,356500.0
+2021,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,70,425000.0
+2021,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,425,425000.0
+2022,Wangaratta,3678,Wangaratta,E Justice procedures offences,E10 Justice procedures,77,530000.0
+2022,Wangaratta,3678,Wangaratta,E Justice procedures offences,E20 Breaches of orders,466,530000.0
 2013,Knox,3152,Wantirna,E Justice procedures offences,E10 Justice procedures,2,576000.0
 2013,Knox,3152,Wantirna,E Justice procedures offences,E20 Breaches of orders,13,576000.0
 2014,Knox,3152,Wantirna,E Justice procedures offences,E10 Justice procedures,10,667500.0
@@ -12146,8 +12146,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Knox,3152,Wantirna South,E Justice procedures offences,E20 Breaches of orders,118,1015000.0
 2021,Knox,3152,Wantirna South,E Justice procedures offences,E10 Justice procedures,48,1222000.0
 2021,Knox,3152,Wantirna South,E Justice procedures offences,E20 Breaches of orders,95,1222000.0
-2021,Knox,3155,Wantirna South,E Justice procedures offences,E10 Justice procedures,1,1222000.0
-2021,Knox,3155,Wantirna South,E Justice procedures offences,E20 Breaches of orders,1,1222000.0
+2021,Knox,3152,Wantirna South,E Justice procedures offences,E10 Justice procedures,1,1222000.0
+2021,Knox,3152,Wantirna South,E Justice procedures offences,E20 Breaches of orders,1,1222000.0
 2022,Knox,3152,Wantirna South,E Justice procedures offences,E10 Justice procedures,39,1336000.0
 2022,Knox,3152,Wantirna South,E Justice procedures offences,E20 Breaches of orders,104,1336000.0
 2013,Yarra Ranges,3799,Warburton,E Justice procedures offences,E10 Justice procedures,5,310000.0
@@ -12378,31 +12378,31 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Melton,3338,Weir Views,E Justice procedures offences,E20 Breaches of orders,64,530000.0
 2022,Melton,3338,Weir Views,E Justice procedures offences,E10 Justice procedures,4,593500.0
 2022,Melton,3338,Weir Views,E Justice procedures offences,E20 Breaches of orders,83,593500.0
-2013,South Gippsland,3966,Welshpool,E Justice procedures offences,E20 Breaches of orders,5,166000.0
-2016,South Gippsland,3966,Welshpool,E Justice procedures offences,E20 Breaches of orders,1,180000.0
-2017,South Gippsland,3966,Welshpool,E Justice procedures offences,E10 Justice procedures,2,230000.0
-2020,South Gippsland,3966,Welshpool,E Justice procedures offences,E20 Breaches of orders,1,242500.0
-2021,South Gippsland,3966,Welshpool,E Justice procedures offences,E20 Breaches of orders,3,380000.0
-2013,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,19,243000.0
-2013,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,32,243000.0
-2014,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,15,247000.0
-2014,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,105,247000.0
-2015,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,31,250000.0
-2015,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,112,250000.0
-2016,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,62,252500.0
-2016,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,106,252500.0
-2017,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,65,267500.0
-2017,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,151,267500.0
-2018,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,61,326000.0
-2018,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,113,326000.0
-2019,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,91,335000.0
-2019,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,96,335000.0
-2020,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,81,370000.0
-2020,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,175,370000.0
-2021,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,68,465000.0
-2021,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,155,465000.0
-2022,Ballarat,3355,Wendouree,E Justice procedures offences,E10 Justice procedures,88,495000.0
-2022,Ballarat,3355,Wendouree,E Justice procedures offences,E20 Breaches of orders,188,495000.0
+2013,South Gippsland,3965,Welshpool,E Justice procedures offences,E20 Breaches of orders,5,166000.0
+2016,South Gippsland,3965,Welshpool,E Justice procedures offences,E20 Breaches of orders,1,180000.0
+2017,South Gippsland,3965,Welshpool,E Justice procedures offences,E10 Justice procedures,2,230000.0
+2020,South Gippsland,3965,Welshpool,E Justice procedures offences,E20 Breaches of orders,1,242500.0
+2021,South Gippsland,3965,Welshpool,E Justice procedures offences,E20 Breaches of orders,3,380000.0
+2013,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,19,243000.0
+2013,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,32,243000.0
+2014,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,15,247000.0
+2014,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,105,247000.0
+2015,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,31,250000.0
+2015,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,112,250000.0
+2016,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,62,252500.0
+2016,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,106,252500.0
+2017,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,65,267500.0
+2017,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,151,267500.0
+2018,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,61,326000.0
+2018,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,113,326000.0
+2019,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,91,335000.0
+2019,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,96,335000.0
+2020,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,81,370000.0
+2020,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,175,370000.0
+2021,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,68,465000.0
+2021,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,155,465000.0
+2022,Ballarat,3350,Wendouree,E Justice procedures offences,E10 Justice procedures,88,495000.0
+2022,Ballarat,3350,Wendouree,E Justice procedures offences,E20 Breaches of orders,188,495000.0
 2013,Wyndham,3030,Werribee,E Justice procedures offences,E10 Justice procedures,91,309000.0
 2013,Wyndham,3030,Werribee,E Justice procedures offences,E20 Breaches of orders,359,309000.0
 2014,Wyndham,3030,Werribee,E Justice procedures offences,E10 Justice procedures,66,315000.0
@@ -12728,7 +12728,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Stonnington,3181,Windsor,E Justice procedures offences,E20 Breaches of orders,61,1350000.0
 2021,Stonnington,3181,Windsor,E Justice procedures offences,E10 Justice procedures,15,1640000.0
 2021,Stonnington,3181,Windsor,E Justice procedures offences,E20 Breaches of orders,44,1640000.0
-2022,Stonnington,3004,Windsor,E Justice procedures offences,E10 Justice procedures,1,1863000.0
+2022,Stonnington,3181,Windsor,E Justice procedures offences,E10 Justice procedures,1,1863000.0
 2022,Stonnington,3181,Windsor,E Justice procedures offences,E10 Justice procedures,20,1863000.0
 2022,Stonnington,3181,Windsor,E Justice procedures offences,E20 Breaches of orders,49,1863000.0
 2014,Ballarat,3358,Winter Valley,E Justice procedures offences,E20 Breaches of orders,4,360000.0
@@ -13076,24 +13076,24 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Moira,3730,Yarrawonga,E Justice procedures offences,E20 Breaches of orders,77,560000.0
 2022,Moira,3730,Yarrawonga,E Justice procedures offences,E10 Justice procedures,8,695000.0
 2022,Moira,3730,Yarrawonga,E Justice procedures offences,E20 Breaches of orders,95,695000.0
-2013,Murrindindi,3717,Yea,E Justice procedures offences,E10 Justice procedures,2,260000.0
-2013,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,1,260000.0
-2014,Murrindindi,3717,Yea,E Justice procedures offences,E10 Justice procedures,1,255000.0
-2014,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,7,255000.0
-2015,Murrindindi,3717,Yea,E Justice procedures offences,E10 Justice procedures,4,260000.0
-2015,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,6,260000.0
-2016,Murrindindi,3717,Yea,E Justice procedures offences,E10 Justice procedures,2,305000.0
-2016,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,4,305000.0
-2017,Murrindindi,3717,Yea,E Justice procedures offences,E10 Justice procedures,3,385000.0
-2017,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,3,385000.0
-2018,Murrindindi,3717,Yea,E Justice procedures offences,E10 Justice procedures,2,390000.0
-2018,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,21,390000.0
-2019,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,12,435500.0
-2020,Murrindindi,3717,Yea,E Justice procedures offences,E10 Justice procedures,2,422500.0
-2020,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,40,422500.0
-2021,Murrindindi,3717,Yea,E Justice procedures offences,E10 Justice procedures,2,560000.0
-2021,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,11,560000.0
-2022,Murrindindi,3717,Yea,E Justice procedures offences,E20 Breaches of orders,10,610000.0
+2013,Murrindindi,3755,Yea,E Justice procedures offences,E10 Justice procedures,2,260000.0
+2013,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,1,260000.0
+2014,Murrindindi,3755,Yea,E Justice procedures offences,E10 Justice procedures,1,255000.0
+2014,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,7,255000.0
+2015,Murrindindi,3755,Yea,E Justice procedures offences,E10 Justice procedures,4,260000.0
+2015,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,6,260000.0
+2016,Murrindindi,3755,Yea,E Justice procedures offences,E10 Justice procedures,2,305000.0
+2016,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,4,305000.0
+2017,Murrindindi,3755,Yea,E Justice procedures offences,E10 Justice procedures,3,385000.0
+2017,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,3,385000.0
+2018,Murrindindi,3755,Yea,E Justice procedures offences,E10 Justice procedures,2,390000.0
+2018,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,21,390000.0
+2019,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,12,435500.0
+2020,Murrindindi,3755,Yea,E Justice procedures offences,E10 Justice procedures,2,422500.0
+2020,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,40,422500.0
+2021,Murrindindi,3755,Yea,E Justice procedures offences,E10 Justice procedures,2,560000.0
+2021,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,11,560000.0
+2022,Murrindindi,3755,Yea,E Justice procedures offences,E20 Breaches of orders,10,610000.0
 2013,Latrobe,3869,Yinnar,E Justice procedures offences,E20 Breaches of orders,4,220000.0
 2014,Latrobe,3869,Yinnar,E Justice procedures offences,E10 Justice procedures,2,240000.0
 2014,Latrobe,3869,Yinnar,E Justice procedures offences,E20 Breaches of orders,6,240000.0
