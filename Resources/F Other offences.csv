@@ -770,7 +770,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2014,Merri-bek,3057,Brunswick East,F Other offences,F30 Other government regulatory offences,8,819500.0
 2018,Merri-bek,3057,Brunswick East,F Other offences,F90 Miscellaneous offences,2,1170000.0
 2019,Merri-bek,3057,Brunswick East,F Other offences,F90 Miscellaneous offences,1,1011500.0
-2020,Merri-bek,3056,Brunswick East,F Other offences,F90 Miscellaneous offences,6,1283000.0
+2020,Merri-bek,3057,Brunswick East,F Other offences,F90 Miscellaneous offences,6,1283000.0
 2020,Merri-bek,3057,Brunswick East,F Other offences,F90 Miscellaneous offences,22,1283000.0
 2021,Merri-bek,3057,Brunswick East,F Other offences,F90 Miscellaneous offences,9,1420000.0
 2022,Merri-bek,3057,Brunswick East,F Other offences,F30 Other government regulatory offences,3,1360000.0
@@ -927,7 +927,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2018,Melbourne,3053,Carlton,F Other offences,F20 Transport regulation offences,1,1625000.0
 2019,Melbourne,3053,Carlton,F Other offences,F90 Miscellaneous offences,1,1308000.0
 2020,Melbourne,3053,Carlton,F Other offences,F90 Miscellaneous offences,144,1452500.0
-2021,Melbourne,3000,Carlton,F Other offences,F90 Miscellaneous offences,20,1492500.0
+2021,Melbourne,3053,Carlton,F Other offences,F90 Miscellaneous offences,20,1492500.0
 2021,Melbourne,3053,Carlton,F Other offences,F30 Other government regulatory offences,1,1492500.0
 2021,Melbourne,3053,Carlton,F Other offences,F90 Miscellaneous offences,72,1492500.0
 2022,Melbourne,3053,Carlton,F Other offences,F90 Miscellaneous offences,2,1600000.0
@@ -1143,7 +1143,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Kingston,3169,Clayton South,F Other offences,F20 Transport regulation offences,1,1032500.0
 2013,Yarra,3068,Clifton Hill,F Other offences,F20 Transport regulation offences,2,867000.0
 2013,Yarra,3068,Clifton Hill,F Other offences,F90 Miscellaneous offences,1,867000.0
-2014,Yarra,3066,Clifton Hill,F Other offences,F10 Regulatory driving offences,2,965000.0
+2014,Yarra,3068,Clifton Hill,F Other offences,F10 Regulatory driving offences,2,965000.0
 2014,Yarra,3068,Clifton Hill,F Other offences,F90 Miscellaneous offences,2,965000.0
 2015,Yarra,3068,Clifton Hill,F Other offences,F20 Transport regulation offences,2,1085000.0
 2015,Yarra,3068,Clifton Hill,F Other offences,F90 Miscellaneous offences,1,1085000.0
@@ -1151,8 +1151,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2017,Yarra,3068,Clifton Hill,F Other offences,F90 Miscellaneous offences,2,1390000.0
 2018,Yarra,3068,Clifton Hill,F Other offences,F20 Transport regulation offences,9,1364500.0
 2019,Yarra,3068,Clifton Hill,F Other offences,F20 Transport regulation offences,3,1348000.0
-2020,Yarra,3066,Clifton Hill,F Other offences,F90 Miscellaneous offences,8,1375000.0
-2020,Yarra,3067,Clifton Hill,F Other offences,F30 Other government regulatory offences,1,1375000.0
+2020,Yarra,3068,Clifton Hill,F Other offences,F90 Miscellaneous offences,8,1375000.0
+2020,Yarra,3068,Clifton Hill,F Other offences,F30 Other government regulatory offences,1,1375000.0
 2020,Yarra,3068,Clifton Hill,F Other offences,F90 Miscellaneous offences,22,1375000.0
 2021,Yarra,3068,Clifton Hill,F Other offences,F90 Miscellaneous offences,8,1750000.0
 2022,Yarra,3068,Clifton Hill,F Other offences,F20 Transport regulation offences,1,1670000.0
@@ -2054,28 +2054,28 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Cardinia,3814,Garfield,F Other offences,F90 Miscellaneous offences,4,590000.0
 2021,Cardinia,3814,Garfield,F Other offences,F30 Other government regulatory offences,1,715000.0
 2021,Cardinia,3814,Garfield,F Other offences,F90 Miscellaneous offences,3,715000.0
-2013,Greater Geelong,3220,Geelong,F Other offences,F20 Transport regulation offences,1,500000.0
-2013,Greater Geelong,3220,Geelong,F Other offences,F30 Other government regulatory offences,10,500000.0
-2013,Greater Geelong,3220,Geelong,F Other offences,F90 Miscellaneous offences,2,500000.0
-2014,Greater Geelong,3220,Geelong,F Other offences,F20 Transport regulation offences,1,512000.0
-2014,Greater Geelong,3220,Geelong,F Other offences,F30 Other government regulatory offences,7,512000.0
-2014,Greater Geelong,3220,Geelong,F Other offences,F90 Miscellaneous offences,1,512000.0
-2015,Greater Geelong,3220,Geelong,F Other offences,F20 Transport regulation offences,2,607500.0
-2015,Greater Geelong,3220,Geelong,F Other offences,F30 Other government regulatory offences,13,607500.0
-2015,Greater Geelong,3220,Geelong,F Other offences,F90 Miscellaneous offences,4,607500.0
-2016,Greater Geelong,3220,Geelong,F Other offences,F20 Transport regulation offences,2,590000.0
-2016,Greater Geelong,3220,Geelong,F Other offences,F30 Other government regulatory offences,8,590000.0
-2017,Greater Geelong,3220,Geelong,F Other offences,F20 Transport regulation offences,4,735000.0
-2017,Greater Geelong,3220,Geelong,F Other offences,F30 Other government regulatory offences,3,735000.0
-2017,Greater Geelong,3220,Geelong,F Other offences,F90 Miscellaneous offences,4,735000.0
-2018,Greater Geelong,3220,Geelong,F Other offences,F20 Transport regulation offences,1,750000.0
-2018,Greater Geelong,3220,Geelong,F Other offences,F30 Other government regulatory offences,6,750000.0
-2019,Greater Geelong,3220,Geelong,F Other offences,F30 Other government regulatory offences,7,720000.0
-2019,Greater Geelong,3220,Geelong,F Other offences,F90 Miscellaneous offences,1,720000.0
-2020,Greater Geelong,3220,Geelong,F Other offences,F90 Miscellaneous offences,98,883500.0
-2021,Greater Geelong,3220,Geelong,F Other offences,F90 Miscellaneous offences,54,950000.0
-2022,Greater Geelong,3220,Geelong,F Other offences,F20 Transport regulation offences,1,850000.0
-2022,Greater Geelong,3220,Geelong,F Other offences,F90 Miscellaneous offences,2,850000.0
+2013,Greater Geelong,3219,Geelong,F Other offences,F20 Transport regulation offences,1,500000.0
+2013,Greater Geelong,3219,Geelong,F Other offences,F30 Other government regulatory offences,10,500000.0
+2013,Greater Geelong,3219,Geelong,F Other offences,F90 Miscellaneous offences,2,500000.0
+2014,Greater Geelong,3219,Geelong,F Other offences,F20 Transport regulation offences,1,512000.0
+2014,Greater Geelong,3219,Geelong,F Other offences,F30 Other government regulatory offences,7,512000.0
+2014,Greater Geelong,3219,Geelong,F Other offences,F90 Miscellaneous offences,1,512000.0
+2015,Greater Geelong,3219,Geelong,F Other offences,F20 Transport regulation offences,2,607500.0
+2015,Greater Geelong,3219,Geelong,F Other offences,F30 Other government regulatory offences,13,607500.0
+2015,Greater Geelong,3219,Geelong,F Other offences,F90 Miscellaneous offences,4,607500.0
+2016,Greater Geelong,3219,Geelong,F Other offences,F20 Transport regulation offences,2,590000.0
+2016,Greater Geelong,3219,Geelong,F Other offences,F30 Other government regulatory offences,8,590000.0
+2017,Greater Geelong,3219,Geelong,F Other offences,F20 Transport regulation offences,4,735000.0
+2017,Greater Geelong,3219,Geelong,F Other offences,F30 Other government regulatory offences,3,735000.0
+2017,Greater Geelong,3219,Geelong,F Other offences,F90 Miscellaneous offences,4,735000.0
+2018,Greater Geelong,3219,Geelong,F Other offences,F20 Transport regulation offences,1,750000.0
+2018,Greater Geelong,3219,Geelong,F Other offences,F30 Other government regulatory offences,6,750000.0
+2019,Greater Geelong,3219,Geelong,F Other offences,F30 Other government regulatory offences,7,720000.0
+2019,Greater Geelong,3219,Geelong,F Other offences,F90 Miscellaneous offences,1,720000.0
+2020,Greater Geelong,3219,Geelong,F Other offences,F90 Miscellaneous offences,98,883500.0
+2021,Greater Geelong,3219,Geelong,F Other offences,F90 Miscellaneous offences,54,950000.0
+2022,Greater Geelong,3219,Geelong,F Other offences,F20 Transport regulation offences,1,850000.0
+2022,Greater Geelong,3219,Geelong,F Other offences,F90 Miscellaneous offences,2,850000.0
 2013,Greater Geelong,3218,Geelong West,F Other offences,F30 Other government regulatory offences,1,440000.0
 2014,Greater Geelong,3218,Geelong West,F Other offences,F90 Miscellaneous offences,1,469000.0
 2018,Greater Geelong,3218,Geelong West,F Other offences,F90 Miscellaneous offences,1,713000.0
@@ -2423,7 +2423,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Bayside,3190,Highett,F Other offences,F20 Transport regulation offences,1,1325000.0
 2020,Bayside,3190,Highett,F Other offences,F30 Other government regulatory offences,1,1325000.0
 2020,Bayside,3190,Highett,F Other offences,F90 Miscellaneous offences,51,1325000.0
-2020,Bayside,3192,Highett,F Other offences,F90 Miscellaneous offences,3,1325000.0
+2020,Bayside,3190,Highett,F Other offences,F90 Miscellaneous offences,3,1325000.0
 2021,Bayside,3190,Highett,F Other offences,F90 Miscellaneous offences,7,1585500.0
 2022,Bayside,3190,Highett,F Other offences,F90 Miscellaneous offences,1,1560000.0
 2016,Greater Geelong,3216,Highton,F Other offences,F90 Miscellaneous offences,1,555000.0
@@ -2482,10 +2482,10 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Monash,3166,Huntingdale,F Other offences,F90 Miscellaneous offences,10,1090000.0
 2021,Monash,3166,Huntingdale,F Other offences,F30 Other government regulatory offences,2,1299500.0
 2021,Monash,3166,Huntingdale,F Other offences,F90 Miscellaneous offences,1,1299500.0
-2017,Greater Bendigo,3551,Huntly,F Other offences,F90 Miscellaneous offences,1,335000.0
-2018,Greater Bendigo,3551,Huntly,F Other offences,F20 Transport regulation offences,1,357500.0
-2020,Greater Bendigo,3551,Huntly,F Other offences,F30 Other government regulatory offences,1,388000.0
-2020,Greater Bendigo,3551,Huntly,F Other offences,F90 Miscellaneous offences,2,388000.0
+2017,Greater Bendigo,3163,Huntly,F Other offences,F90 Miscellaneous offences,1,335000.0
+2018,Greater Bendigo,3163,Huntly,F Other offences,F20 Transport regulation offences,1,357500.0
+2020,Greater Bendigo,3163,Huntly,F Other offences,F30 Other government regulatory offences,1,388000.0
+2020,Greater Bendigo,3163,Huntly,F Other offences,F90 Miscellaneous offences,2,388000.0
 2016,Nillumbik,3099,Hurstbridge,F Other offences,F20 Transport regulation offences,3,614500.0
 2020,Nillumbik,3099,Hurstbridge,F Other offences,F90 Miscellaneous offences,3,775000.0
 2021,Nillumbik,3099,Hurstbridge,F Other offences,F90 Miscellaneous offences,1,900000.0
@@ -3962,10 +3962,10 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2018,Southern Grampians,3289,Penshurst,F Other offences,F90 Miscellaneous offences,1,165000.0
 2020,Moyne,3270,Peterborough,F Other offences,F90 Miscellaneous offences,9,550000.0
 2020,Bass Coast,3984,Pioneer Bay,F Other offences,F90 Miscellaneous offences,2,355000.0
-2014,Nillumbik,3090,Plenty,F Other offences,F90 Miscellaneous offences,1,750000.0
-2016,Nillumbik,3090,Plenty,F Other offences,F90 Miscellaneous offences,1,935000.0
-2020,Nillumbik,3090,Plenty,F Other offences,F90 Miscellaneous offences,4,1202500.0
-2021,Nillumbik,3090,Plenty,F Other offences,F90 Miscellaneous offences,3,1610000.0
+2014,Nillumbik,3093,Plenty,F Other offences,F90 Miscellaneous offences,1,750000.0
+2016,Nillumbik,3093,Plenty,F Other offences,F90 Miscellaneous offences,1,935000.0
+2020,Nillumbik,3093,Plenty,F Other offences,F90 Miscellaneous offences,4,1202500.0
+2021,Nillumbik,3093,Plenty,F Other offences,F90 Miscellaneous offences,3,1610000.0
 2013,Wyndham,3030,Point Cook,F Other offences,F30 Other government regulatory offences,1,450000.0
 2013,Wyndham,3030,Point Cook,F Other offences,F90 Miscellaneous offences,5,450000.0
 2014,Wyndham,3030,Point Cook,F Other offences,F90 Miscellaneous offences,4,445000.0
@@ -4176,33 +4176,33 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Darebin,3073,Reservoir,F Other offences,F20 Transport regulation offences,4,966000.0
 2022,Darebin,3073,Reservoir,F Other offences,F30 Other government regulatory offences,1,966000.0
 2022,Darebin,3073,Reservoir,F Other offences,F90 Miscellaneous offences,7,966000.0
-2013,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,13,900000.0
-2013,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,10,900000.0
-2014,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,3,961000.0
-2014,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,3,961000.0
-2014,Yarra,3121,Richmond,F Other offences,F90 Miscellaneous offences,4,961000.0
-2015,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,8,1150000.0
-2015,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,3,1150000.0
-2015,Yarra,3121,Richmond,F Other offences,F90 Miscellaneous offences,7,1150000.0
-2016,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,13,1265000.0
-2016,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,1,1265000.0
-2017,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,4,1302500.0
-2017,Yarra,3121,Richmond,F Other offences,F90 Miscellaneous offences,6,1302500.0
-2018,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,11,1312000.0
-2018,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,1,1312000.0
-2018,Yarra,3121,Richmond,F Other offences,F90 Miscellaneous offences,5,1312000.0
-2019,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,4,1260000.0
-2019,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,1,1260000.0
-2019,Yarra,3121,Richmond,F Other offences,F90 Miscellaneous offences,9,1260000.0
-2020,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,3,1365000.0
-2020,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,1,1365000.0
-2020,Yarra,3121,Richmond,F Other offences,F90 Miscellaneous offences,531,1365000.0
-2021,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,5,1480000.0
-2021,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,1,1480000.0
-2021,Yarra,3121,Richmond,F Other offences,F90 Miscellaneous offences,158,1480000.0
-2022,Yarra,3121,Richmond,F Other offences,F20 Transport regulation offences,11,1385000.0
-2022,Yarra,3121,Richmond,F Other offences,F30 Other government regulatory offences,1,1385000.0
-2022,Yarra,3121,Richmond,F Other offences,F90 Miscellaneous offences,20,1385000.0
+2013,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,13,900000.0
+2013,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,10,900000.0
+2014,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,3,961000.0
+2014,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,3,961000.0
+2014,Yarra,3305,Richmond,F Other offences,F90 Miscellaneous offences,4,961000.0
+2015,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,8,1150000.0
+2015,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,3,1150000.0
+2015,Yarra,3305,Richmond,F Other offences,F90 Miscellaneous offences,7,1150000.0
+2016,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,13,1265000.0
+2016,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,1,1265000.0
+2017,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,4,1302500.0
+2017,Yarra,3305,Richmond,F Other offences,F90 Miscellaneous offences,6,1302500.0
+2018,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,11,1312000.0
+2018,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,1,1312000.0
+2018,Yarra,3305,Richmond,F Other offences,F90 Miscellaneous offences,5,1312000.0
+2019,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,4,1260000.0
+2019,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,1,1260000.0
+2019,Yarra,3305,Richmond,F Other offences,F90 Miscellaneous offences,9,1260000.0
+2020,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,3,1365000.0
+2020,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,1,1365000.0
+2020,Yarra,3305,Richmond,F Other offences,F90 Miscellaneous offences,531,1365000.0
+2021,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,5,1480000.0
+2021,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,1,1480000.0
+2021,Yarra,3305,Richmond,F Other offences,F90 Miscellaneous offences,158,1480000.0
+2022,Yarra,3305,Richmond,F Other offences,F20 Transport regulation offences,11,1385000.0
+2022,Yarra,3305,Richmond,F Other offences,F30 Other government regulatory offences,1,1385000.0
+2022,Yarra,3305,Richmond,F Other offences,F90 Miscellaneous offences,20,1385000.0
 2013,Macedon Ranges,3431,Riddells Creek,F Other offences,F20 Transport regulation offences,3,450000.0
 2014,Macedon Ranges,3431,Riddells Creek,F Other offences,F90 Miscellaneous offences,1,417500.0
 2019,Macedon Ranges,3431,Riddells Creek,F Other offences,F90 Miscellaneous offences,1,702500.0
@@ -4366,23 +4366,23 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Mornington Peninsula,3936,Safety Beach,F Other offences,F90 Miscellaneous offences,23,895000.0
 2021,Mornington Peninsula,3936,Safety Beach,F Other offences,F90 Miscellaneous offences,6,1117000.0
 2022,Mornington Peninsula,3936,Safety Beach,F Other offences,F20 Transport regulation offences,10,1420000.0
-2013,Wellington,3850,Sale,F Other offences,F90 Miscellaneous offences,4,290000.0
-2014,Wellington,3850,Sale,F Other offences,F20 Transport regulation offences,3,300000.0
-2014,Wellington,3850,Sale,F Other offences,F30 Other government regulatory offences,2,300000.0
-2015,Wellington,3850,Sale,F Other offences,F30 Other government regulatory offences,17,298000.0
-2015,Wellington,3850,Sale,F Other offences,F90 Miscellaneous offences,3,298000.0
-2016,Wellington,3850,Sale,F Other offences,F30 Other government regulatory offences,2,295500.0
-2016,Wellington,3850,Sale,F Other offences,F90 Miscellaneous offences,2,295500.0
-2018,Wellington,3850,Sale,F Other offences,F30 Other government regulatory offences,4,309500.0
-2018,Wellington,3850,Sale,F Other offences,F90 Miscellaneous offences,3,309500.0
-2019,Wellington,3850,Sale,F Other offences,F20 Transport regulation offences,2,325000.0
-2019,Wellington,3850,Sale,F Other offences,F30 Other government regulatory offences,4,325000.0
-2019,Wellington,3850,Sale,F Other offences,F90 Miscellaneous offences,3,325000.0
-2020,Wellington,3850,Sale,F Other offences,F30 Other government regulatory offences,4,345000.0
-2020,Wellington,3850,Sale,F Other offences,F90 Miscellaneous offences,74,345000.0
-2021,Wellington,3850,Sale,F Other offences,F90 Miscellaneous offences,30,399500.0
-2022,Wellington,3850,Sale,F Other offences,F30 Other government regulatory offences,8,515000.0
-2022,Wellington,3850,Sale,F Other offences,F90 Miscellaneous offences,1,515000.0
+2013,Wellington,3852,Sale,F Other offences,F90 Miscellaneous offences,4,290000.0
+2014,Wellington,3852,Sale,F Other offences,F20 Transport regulation offences,3,300000.0
+2014,Wellington,3852,Sale,F Other offences,F30 Other government regulatory offences,2,300000.0
+2015,Wellington,3852,Sale,F Other offences,F30 Other government regulatory offences,17,298000.0
+2015,Wellington,3852,Sale,F Other offences,F90 Miscellaneous offences,3,298000.0
+2016,Wellington,3852,Sale,F Other offences,F30 Other government regulatory offences,2,295500.0
+2016,Wellington,3852,Sale,F Other offences,F90 Miscellaneous offences,2,295500.0
+2018,Wellington,3852,Sale,F Other offences,F30 Other government regulatory offences,4,309500.0
+2018,Wellington,3852,Sale,F Other offences,F90 Miscellaneous offences,3,309500.0
+2019,Wellington,3852,Sale,F Other offences,F20 Transport regulation offences,2,325000.0
+2019,Wellington,3852,Sale,F Other offences,F30 Other government regulatory offences,4,325000.0
+2019,Wellington,3852,Sale,F Other offences,F90 Miscellaneous offences,3,325000.0
+2020,Wellington,3852,Sale,F Other offences,F30 Other government regulatory offences,4,345000.0
+2020,Wellington,3852,Sale,F Other offences,F90 Miscellaneous offences,74,345000.0
+2021,Wellington,3852,Sale,F Other offences,F90 Miscellaneous offences,30,399500.0
+2022,Wellington,3852,Sale,F Other offences,F30 Other government regulatory offences,8,515000.0
+2022,Wellington,3852,Sale,F Other offences,F90 Miscellaneous offences,1,515000.0
 2015,Bass Coast,3925,San Remo,F Other offences,F20 Transport regulation offences,2,420000.0
 2018,Bass Coast,3925,San Remo,F Other offences,F30 Other government regulatory offences,1,515000.0
 2020,Bass Coast,3925,San Remo,F Other offences,F90 Miscellaneous offences,9,597500.0
@@ -4895,7 +4895,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Brimbank,3037,Sydenham,F Other offences,F30 Other government regulatory offences,2,706000.0
 2021,Brimbank,3037,Sydenham,F Other offences,F90 Miscellaneous offences,10,706000.0
 2022,Brimbank,3037,Sydenham,F Other offences,F30 Other government regulatory offences,1,675000.0
-2022,Towong,3700,Tallangatta,F Other offences,F20 Transport regulation offences,2,432000.0
+2022,Towong,3701,Tallangatta,F Other offences,F20 Transport regulation offences,2,432000.0
 2014,Wyndham,3029,Tarneit,F Other offences,F20 Transport regulation offences,1,395000.0
 2015,Wyndham,3029,Tarneit,F Other offences,F20 Transport regulation offences,1,400000.0
 2016,Wyndham,3029,Tarneit,F Other offences,F20 Transport regulation offences,1,445000.0
@@ -5181,26 +5181,26 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2019,Yarra Ranges,3139,Wandin North,F Other offences,F90 Miscellaneous offences,1,630000.0
 2020,Yarra Ranges,3139,Wandin North,F Other offences,F90 Miscellaneous offences,6,715000.0
 2021,Yarra Ranges,3139,Wandin North,F Other offences,F90 Miscellaneous offences,1,765000.0
-2013,Wangaratta,3677,Wangaratta,F Other offences,F30 Other government regulatory offences,10,240000.0
-2013,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,14,240000.0
-2014,Wangaratta,3677,Wangaratta,F Other offences,F10 Regulatory driving offences,1,255000.0
-2014,Wangaratta,3677,Wangaratta,F Other offences,F30 Other government regulatory offences,4,255000.0
-2014,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,2,255000.0
-2015,Wangaratta,3677,Wangaratta,F Other offences,F30 Other government regulatory offences,13,272000.0
-2015,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,41,272000.0
-2016,Wangaratta,3677,Wangaratta,F Other offences,F20 Transport regulation offences,1,270500.0
-2016,Wangaratta,3677,Wangaratta,F Other offences,F30 Other government regulatory offences,2,270500.0
-2017,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,2,270000.0
-2018,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,3,320000.0
-2019,Wangaratta,3677,Wangaratta,F Other offences,F30 Other government regulatory offences,2,319000.0
-2019,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,5,319000.0
-2020,Wangaratta,3677,Wangaratta,F Other offences,F30 Other government regulatory offences,2,356500.0
-2020,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,98,356500.0
-2021,Wangaratta,3677,Wangaratta,F Other offences,F30 Other government regulatory offences,7,425000.0
-2021,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,15,425000.0
-2022,Wangaratta,3677,Wangaratta,F Other offences,F20 Transport regulation offences,3,530000.0
-2022,Wangaratta,3677,Wangaratta,F Other offences,F30 Other government regulatory offences,3,530000.0
-2022,Wangaratta,3677,Wangaratta,F Other offences,F90 Miscellaneous offences,29,530000.0
+2013,Wangaratta,3678,Wangaratta,F Other offences,F30 Other government regulatory offences,10,240000.0
+2013,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,14,240000.0
+2014,Wangaratta,3678,Wangaratta,F Other offences,F10 Regulatory driving offences,1,255000.0
+2014,Wangaratta,3678,Wangaratta,F Other offences,F30 Other government regulatory offences,4,255000.0
+2014,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,2,255000.0
+2015,Wangaratta,3678,Wangaratta,F Other offences,F30 Other government regulatory offences,13,272000.0
+2015,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,41,272000.0
+2016,Wangaratta,3678,Wangaratta,F Other offences,F20 Transport regulation offences,1,270500.0
+2016,Wangaratta,3678,Wangaratta,F Other offences,F30 Other government regulatory offences,2,270500.0
+2017,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,2,270000.0
+2018,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,3,320000.0
+2019,Wangaratta,3678,Wangaratta,F Other offences,F30 Other government regulatory offences,2,319000.0
+2019,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,5,319000.0
+2020,Wangaratta,3678,Wangaratta,F Other offences,F30 Other government regulatory offences,2,356500.0
+2020,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,98,356500.0
+2021,Wangaratta,3678,Wangaratta,F Other offences,F30 Other government regulatory offences,7,425000.0
+2021,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,15,425000.0
+2022,Wangaratta,3678,Wangaratta,F Other offences,F20 Transport regulation offences,3,530000.0
+2022,Wangaratta,3678,Wangaratta,F Other offences,F30 Other government regulatory offences,3,530000.0
+2022,Wangaratta,3678,Wangaratta,F Other offences,F90 Miscellaneous offences,29,530000.0
 2014,Knox,3152,Wantirna,F Other offences,F90 Miscellaneous offences,2,667500.0
 2015,Knox,3152,Wantirna,F Other offences,F90 Miscellaneous offences,1,764000.0
 2018,Knox,3152,Wantirna,F Other offences,F90 Miscellaneous offences,2,906500.0
@@ -5320,18 +5320,18 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Loddon,3518,Wedderburn,F Other offences,F90 Miscellaneous offences,1,176500.0
 2020,Melton,3338,Weir Views,F Other offences,F90 Miscellaneous offences,23,495500.0
 2021,Melton,3338,Weir Views,F Other offences,F90 Miscellaneous offences,14,530000.0
-2015,South Gippsland,3966,Welshpool,F Other offences,F90 Miscellaneous offences,1,272500.0
-2020,South Gippsland,3966,Welshpool,F Other offences,F90 Miscellaneous offences,1,242500.0
-2013,Ballarat,3355,Wendouree,F Other offences,F90 Miscellaneous offences,2,243000.0
-2014,Ballarat,3355,Wendouree,F Other offences,F30 Other government regulatory offences,1,247000.0
-2014,Ballarat,3355,Wendouree,F Other offences,F90 Miscellaneous offences,1,247000.0
-2015,Ballarat,3355,Wendouree,F Other offences,F30 Other government regulatory offences,3,250000.0
-2018,Ballarat,3355,Wendouree,F Other offences,F30 Other government regulatory offences,1,326000.0
-2018,Ballarat,3355,Wendouree,F Other offences,F90 Miscellaneous offences,2,326000.0
-2019,Ballarat,3355,Wendouree,F Other offences,F90 Miscellaneous offences,1,335000.0
-2020,Ballarat,3355,Wendouree,F Other offences,F90 Miscellaneous offences,43,370000.0
-2021,Ballarat,3355,Wendouree,F Other offences,F30 Other government regulatory offences,1,465000.0
-2021,Ballarat,3355,Wendouree,F Other offences,F90 Miscellaneous offences,13,465000.0
+2015,South Gippsland,3965,Welshpool,F Other offences,F90 Miscellaneous offences,1,272500.0
+2020,South Gippsland,3965,Welshpool,F Other offences,F90 Miscellaneous offences,1,242500.0
+2013,Ballarat,3350,Wendouree,F Other offences,F90 Miscellaneous offences,2,243000.0
+2014,Ballarat,3350,Wendouree,F Other offences,F30 Other government regulatory offences,1,247000.0
+2014,Ballarat,3350,Wendouree,F Other offences,F90 Miscellaneous offences,1,247000.0
+2015,Ballarat,3350,Wendouree,F Other offences,F30 Other government regulatory offences,3,250000.0
+2018,Ballarat,3350,Wendouree,F Other offences,F30 Other government regulatory offences,1,326000.0
+2018,Ballarat,3350,Wendouree,F Other offences,F90 Miscellaneous offences,2,326000.0
+2019,Ballarat,3350,Wendouree,F Other offences,F90 Miscellaneous offences,1,335000.0
+2020,Ballarat,3350,Wendouree,F Other offences,F90 Miscellaneous offences,43,370000.0
+2021,Ballarat,3350,Wendouree,F Other offences,F30 Other government regulatory offences,1,465000.0
+2021,Ballarat,3350,Wendouree,F Other offences,F90 Miscellaneous offences,13,465000.0
 2013,Wyndham,3030,Werribee,F Other offences,F20 Transport regulation offences,5,309000.0
 2013,Wyndham,3030,Werribee,F Other offences,F30 Other government regulatory offences,4,309000.0
 2013,Wyndham,3030,Werribee,F Other offences,F90 Miscellaneous offences,5,309000.0
@@ -5506,7 +5506,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Surf Coast,3241,Winchelsea,F Other offences,F90 Miscellaneous offences,15,480000.0
 2021,Surf Coast,3241,Winchelsea,F Other offences,F90 Miscellaneous offences,5,552500.0
 2013,Stonnington,3181,Windsor,F Other offences,F30 Other government regulatory offences,2,835000.0
-2014,Stonnington,3004,Windsor,F Other offences,F30 Other government regulatory offences,1,956500.0
+2014,Stonnington,3181,Windsor,F Other offences,F30 Other government regulatory offences,1,956500.0
 2015,Stonnington,3181,Windsor,F Other offences,F20 Transport regulation offences,3,1094000.0
 2015,Stonnington,3181,Windsor,F Other offences,F30 Other government regulatory offences,1,1094000.0
 2015,Stonnington,3181,Windsor,F Other offences,F90 Miscellaneous offences,1,1094000.0
@@ -5640,9 +5640,9 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Moira,3730,Yarrawonga,F Other offences,F30 Other government regulatory offences,4,560000.0
 2021,Moira,3730,Yarrawonga,F Other offences,F90 Miscellaneous offences,7,560000.0
 2022,Moira,3730,Yarrawonga,F Other offences,F90 Miscellaneous offences,1,695000.0
-2015,Murrindindi,3717,Yea,F Other offences,F30 Other government regulatory offences,1,260000.0
-2015,Murrindindi,3717,Yea,F Other offences,F90 Miscellaneous offences,1,260000.0
-2016,Murrindindi,3717,Yea,F Other offences,F30 Other government regulatory offences,2,305000.0
-2020,Murrindindi,3717,Yea,F Other offences,F90 Miscellaneous offences,5,422500.0
-2021,Murrindindi,3717,Yea,F Other offences,F90 Miscellaneous offences,2,560000.0
+2015,Murrindindi,3755,Yea,F Other offences,F30 Other government regulatory offences,1,260000.0
+2015,Murrindindi,3755,Yea,F Other offences,F90 Miscellaneous offences,1,260000.0
+2016,Murrindindi,3755,Yea,F Other offences,F30 Other government regulatory offences,2,305000.0
+2020,Murrindindi,3755,Yea,F Other offences,F90 Miscellaneous offences,5,422500.0
+2021,Murrindindi,3755,Yea,F Other offences,F90 Miscellaneous offences,2,560000.0
 2014,Latrobe,3869,Yinnar,F Other offences,F20 Transport regulation offences,1,240000.0

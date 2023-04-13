@@ -2220,19 +2220,19 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2014,Bayside,3193,Beaumaris,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",6,1129500.0
 2014,Bayside,3193,Beaumaris,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,1129500.0
 2014,Bayside,3193,Beaumaris,A Crimes against the person,Other crimes against the person,11,1129500.0
-2015,Bayside,3192,Beaumaris,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1345000.0
+2015,Bayside,3193,Beaumaris,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1345000.0
 2015,Bayside,3193,Beaumaris,A Crimes against the person,A20 Assault and related offences,17,1345000.0
 2015,Bayside,3193,Beaumaris,A Crimes against the person,A50 Robbery,1,1345000.0
 2015,Bayside,3193,Beaumaris,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1345000.0
 2015,Bayside,3193,Beaumaris,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,1345000.0
 2015,Bayside,3193,Beaumaris,A Crimes against the person,Other crimes against the person,15,1345000.0
-2016,Bayside,3192,Beaumaris,A Crimes against the person,A20 Assault and related offences,1,1455000.0
+2016,Bayside,3193,Beaumaris,A Crimes against the person,A20 Assault and related offences,1,1455000.0
 2016,Bayside,3193,Beaumaris,A Crimes against the person,A20 Assault and related offences,27,1455000.0
 2016,Bayside,3193,Beaumaris,A Crimes against the person,A50 Robbery,1,1455000.0
 2016,Bayside,3193,Beaumaris,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",30,1455000.0
 2016,Bayside,3193,Beaumaris,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,1455000.0
 2016,Bayside,3193,Beaumaris,A Crimes against the person,Other crimes against the person,17,1455000.0
-2017,Bayside,3192,Beaumaris,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1611000.0
+2017,Bayside,3193,Beaumaris,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1611000.0
 2017,Bayside,3193,Beaumaris,A Crimes against the person,A20 Assault and related offences,20,1611000.0
 2017,Bayside,3193,Beaumaris,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",13,1611000.0
 2017,Bayside,3193,Beaumaris,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,1611000.0
@@ -2250,7 +2250,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Bayside,3193,Beaumaris,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",14,1725000.0
 2020,Bayside,3193,Beaumaris,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1725000.0
 2020,Bayside,3193,Beaumaris,A Crimes against the person,Other crimes against the person,15,1725000.0
-2021,Bayside,3192,Beaumaris,A Crimes against the person,Other crimes against the person,1,2100000.0
+2021,Bayside,3193,Beaumaris,A Crimes against the person,Other crimes against the person,1,2100000.0
 2021,Bayside,3193,Beaumaris,A Crimes against the person,A20 Assault and related offences,11,2100000.0
 2021,Bayside,3193,Beaumaris,A Crimes against the person,A50 Robbery,4,2100000.0
 2021,Bayside,3193,Beaumaris,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,2100000.0
@@ -2425,7 +2425,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2018,Greater Geelong,3215,Bell Park,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",9,452500.0
 2018,Greater Geelong,3215,Bell Park,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,452500.0
 2018,Greater Geelong,3215,Bell Park,A Crimes against the person,Other crimes against the person,8,452500.0
-2019,Greater Geelong,3214,Bell Park,A Crimes against the person,A20 Assault and related offences,1,482000.0
+2019,Greater Geelong,3215,Bell Park,A Crimes against the person,A20 Assault and related offences,1,482000.0
 2019,Greater Geelong,3215,Bell Park,A Crimes against the person,A20 Assault and related offences,36,482000.0
 2019,Greater Geelong,3215,Bell Park,A Crimes against the person,A50 Robbery,2,482000.0
 2019,Greater Geelong,3215,Bell Park,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",7,482000.0
@@ -2436,7 +2436,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Greater Geelong,3215,Bell Park,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",16,500000.0
 2020,Greater Geelong,3215,Bell Park,A Crimes against the person,A80 Dangerous and negligent acts endangering people,10,500000.0
 2020,Greater Geelong,3215,Bell Park,A Crimes against the person,Other crimes against the person,6,500000.0
-2021,Greater Geelong,3214,Bell Park,A Crimes against the person,A20 Assault and related offences,1,620000.0
+2021,Greater Geelong,3215,Bell Park,A Crimes against the person,A20 Assault and related offences,1,620000.0
 2021,Greater Geelong,3215,Bell Park,A Crimes against the person,A20 Assault and related offences,47,620000.0
 2021,Greater Geelong,3215,Bell Park,A Crimes against the person,A50 Robbery,2,620000.0
 2021,Greater Geelong,3215,Bell Park,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",10,620000.0
@@ -3834,7 +3834,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2014,Bayside,3187,Brighton East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,1300000.0
 2014,Bayside,3187,Brighton East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,11,1300000.0
 2014,Bayside,3187,Brighton East,A Crimes against the person,Other crimes against the person,29,1300000.0
-2014,Bayside,3188,Brighton East,A Crimes against the person,Other crimes against the person,1,1300000.0
+2014,Bayside,3187,Brighton East,A Crimes against the person,Other crimes against the person,1,1300000.0
 2015,Bayside,3187,Brighton East,A Crimes against the person,A20 Assault and related offences,23,1600000.0
 2015,Bayside,3187,Brighton East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5,1600000.0
 2015,Bayside,3187,Brighton East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,1600000.0
@@ -3844,19 +3844,19 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2016,Bayside,3187,Brighton East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",17,1750000.0
 2016,Bayside,3187,Brighton East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,6,1750000.0
 2016,Bayside,3187,Brighton East,A Crimes against the person,Other crimes against the person,20,1750000.0
-2016,Bayside,3188,Brighton East,A Crimes against the person,A20 Assault and related offences,1,1750000.0
+2016,Bayside,3187,Brighton East,A Crimes against the person,A20 Assault and related offences,1,1750000.0
 2017,Bayside,3187,Brighton East,A Crimes against the person,A20 Assault and related offences,42,1900000.0
 2017,Bayside,3187,Brighton East,A Crimes against the person,A50 Robbery,4,1900000.0
 2017,Bayside,3187,Brighton East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",8,1900000.0
 2017,Bayside,3187,Brighton East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1900000.0
 2017,Bayside,3187,Brighton East,A Crimes against the person,Other crimes against the person,15,1900000.0
-2017,Bayside,3188,Brighton East,A Crimes against the person,Other crimes against the person,2,1900000.0
+2017,Bayside,3187,Brighton East,A Crimes against the person,Other crimes against the person,2,1900000.0
 2018,Bayside,3187,Brighton East,A Crimes against the person,A20 Assault and related offences,36,1880000.0
 2018,Bayside,3187,Brighton East,A Crimes against the person,A50 Robbery,3,1880000.0
 2018,Bayside,3187,Brighton East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",12,1880000.0
 2018,Bayside,3187,Brighton East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,1880000.0
 2018,Bayside,3187,Brighton East,A Crimes against the person,Other crimes against the person,14,1880000.0
-2018,Bayside,3188,Brighton East,A Crimes against the person,Other crimes against the person,1,1880000.0
+2018,Bayside,3187,Brighton East,A Crimes against the person,Other crimes against the person,1,1880000.0
 2019,Bayside,3187,Brighton East,A Crimes against the person,A20 Assault and related offences,38,1700000.0
 2019,Bayside,3187,Brighton East,A Crimes against the person,A50 Robbery,1,1700000.0
 2019,Bayside,3187,Brighton East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",8,1700000.0
@@ -3960,7 +3960,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Hume,3047,Broadmeadows,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",115,554500.0
 2020,Hume,3047,Broadmeadows,A Crimes against the person,A80 Dangerous and negligent acts endangering people,48,554500.0
 2020,Hume,3047,Broadmeadows,A Crimes against the person,Other crimes against the person,86,554500.0
-2020,Hume,3049,Broadmeadows,A Crimes against the person,A20 Assault and related offences,1,554500.0
+2020,Hume,3047,Broadmeadows,A Crimes against the person,A20 Assault and related offences,1,554500.0
 2021,Hume,3047,Broadmeadows,A Crimes against the person,A20 Assault and related offences,268,595000.0
 2021,Hume,3047,Broadmeadows,A Crimes against the person,A50 Robbery,24,595000.0
 2021,Hume,3047,Broadmeadows,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",102,595000.0
@@ -4152,14 +4152,14 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Merri-bek,3056,Brunswick,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",121,1325000.0
 2022,Merri-bek,3056,Brunswick,A Crimes against the person,A80 Dangerous and negligent acts endangering people,26,1325000.0
 2022,Merri-bek,3056,Brunswick,A Crimes against the person,Other crimes against the person,40,1325000.0
-2013,Merri-bek,3056,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,767000.0
+2013,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,767000.0
 2013,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,30,767000.0
 2013,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,7,767000.0
 2013,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",11,767000.0
 2013,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,7,767000.0
 2013,Merri-bek,3057,Brunswick East,A Crimes against the person,Other crimes against the person,19,767000.0
-2014,Merri-bek,3056,Brunswick East,A Crimes against the person,A20 Assault and related offences,1,819500.0
-2014,Merri-bek,3056,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,819500.0
+2014,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,1,819500.0
+2014,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,819500.0
 2014,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,32,819500.0
 2014,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,3,819500.0
 2014,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",16,819500.0
@@ -4170,20 +4170,20 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2015,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",7,888000.0
 2015,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,888000.0
 2015,Merri-bek,3057,Brunswick East,A Crimes against the person,Other crimes against the person,10,888000.0
-2016,Merri-bek,3056,Brunswick East,A Crimes against the person,A50 Robbery,1,998000.0
-2016,Merri-bek,3056,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,998000.0
+2016,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,1,998000.0
+2016,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,998000.0
 2016,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,31,998000.0
 2016,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,1,998000.0
 2016,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",15,998000.0
 2016,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,998000.0
 2016,Merri-bek,3057,Brunswick East,A Crimes against the person,Other crimes against the person,13,998000.0
-2017,Merri-bek,3056,Brunswick East,A Crimes against the person,A20 Assault and related offences,1,1150000.0
+2017,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,1,1150000.0
 2017,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,53,1150000.0
 2017,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,7,1150000.0
 2017,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",13,1150000.0
 2017,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1150000.0
 2017,Merri-bek,3057,Brunswick East,A Crimes against the person,Other crimes against the person,16,1150000.0
-2018,Merri-bek,3056,Brunswick East,A Crimes against the person,A20 Assault and related offences,1,1170000.0
+2018,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,1,1170000.0
 2018,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,49,1170000.0
 2018,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,4,1170000.0
 2018,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",13,1170000.0
@@ -4194,19 +4194,19 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2019,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",7,1011500.0
 2019,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,8,1011500.0
 2019,Merri-bek,3057,Brunswick East,A Crimes against the person,Other crimes against the person,36,1011500.0
-2020,Merri-bek,3056,Brunswick East,A Crimes against the person,A20 Assault and related offences,3,1283000.0
+2020,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,3,1283000.0
 2020,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,48,1283000.0
 2020,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,10,1283000.0
 2020,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",9,1283000.0
 2020,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,1283000.0
 2020,Merri-bek,3057,Brunswick East,A Crimes against the person,Other crimes against the person,25,1283000.0
-2021,Merri-bek,3056,Brunswick East,A Crimes against the person,Other crimes against the person,2,1420000.0
+2021,Merri-bek,3057,Brunswick East,A Crimes against the person,Other crimes against the person,2,1420000.0
 2021,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,53,1420000.0
 2021,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,6,1420000.0
 2021,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",13,1420000.0
 2021,Merri-bek,3057,Brunswick East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,1420000.0
 2021,Merri-bek,3057,Brunswick East,A Crimes against the person,Other crimes against the person,19,1420000.0
-2022,Merri-bek,3056,Brunswick East,A Crimes against the person,A20 Assault and related offences,1,1360000.0
+2022,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,1,1360000.0
 2022,Merri-bek,3057,Brunswick East,A Crimes against the person,A20 Assault and related offences,32,1360000.0
 2022,Merri-bek,3057,Brunswick East,A Crimes against the person,A50 Robbery,3,1360000.0
 2022,Merri-bek,3057,Brunswick East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",16,1360000.0
@@ -4314,13 +4314,13 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2017,Manningham,3105,Bulleen,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",10,1300000.0
 2017,Manningham,3105,Bulleen,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,1300000.0
 2017,Manningham,3105,Bulleen,A Crimes against the person,Other crimes against the person,16,1300000.0
-2017,Manningham,3108,Bulleen,A Crimes against the person,Other crimes against the person,1,1300000.0
+2017,Manningham,3105,Bulleen,A Crimes against the person,Other crimes against the person,1,1300000.0
 2018,Manningham,3105,Bulleen,A Crimes against the person,A20 Assault and related offences,38,1230000.0
 2018,Manningham,3105,Bulleen,A Crimes against the person,A50 Robbery,2,1230000.0
 2018,Manningham,3105,Bulleen,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",9,1230000.0
 2018,Manningham,3105,Bulleen,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,1230000.0
 2018,Manningham,3105,Bulleen,A Crimes against the person,Other crimes against the person,17,1230000.0
-2018,Manningham,3108,Bulleen,A Crimes against the person,Other crimes against the person,1,1230000.0
+2018,Manningham,3105,Bulleen,A Crimes against the person,Other crimes against the person,1,1230000.0
 2019,Manningham,3105,Bulleen,A Crimes against the person,A20 Assault and related offences,33,1105000.0
 2019,Manningham,3105,Bulleen,A Crimes against the person,A50 Robbery,6,1105000.0
 2019,Manningham,3105,Bulleen,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",14,1105000.0
@@ -4331,7 +4331,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Manningham,3105,Bulleen,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",8,1177000.0
 2020,Manningham,3105,Bulleen,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,1177000.0
 2020,Manningham,3105,Bulleen,A Crimes against the person,Other crimes against the person,17,1177000.0
-2020,Manningham,3108,Bulleen,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1177000.0
+2020,Manningham,3105,Bulleen,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1177000.0
 2021,Manningham,3105,Bulleen,A Crimes against the person,A20 Assault and related offences,43,1360000.0
 2021,Manningham,3105,Bulleen,A Crimes against the person,A50 Robbery,2,1360000.0
 2021,Manningham,3105,Bulleen,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",22,1360000.0
@@ -5193,8 +5193,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2013,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",27,1002500.0
 2013,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,9,1002500.0
 2013,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,16,1002500.0
-2014,Melbourne,3000,Carlton,A Crimes against the person,A20 Assault and related offences,1,1020000.0
-2014,Melbourne,3000,Carlton,A Crimes against the person,Other crimes against the person,2,1020000.0
+2014,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,1,1020000.0
+2014,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,2,1020000.0
 2014,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,124,1020000.0
 2014,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,22,1020000.0
 2014,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",23,1020000.0
@@ -5205,46 +5205,46 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2015,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",28,830000.0
 2015,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,9,830000.0
 2015,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,22,830000.0
-2016,Melbourne,3000,Carlton,A Crimes against the person,A50 Robbery,1,1050000.0
-2016,Melbourne,3000,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1050000.0
+2016,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,1,1050000.0
+2016,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1050000.0
 2016,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,154,1050000.0
 2016,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,45,1050000.0
 2016,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",36,1050000.0
 2016,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,12,1050000.0
 2016,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,22,1050000.0
-2017,Melbourne,3000,Carlton,A Crimes against the person,A20 Assault and related offences,3,1470000.0
-2017,Melbourne,3000,Carlton,A Crimes against the person,A50 Robbery,1,1470000.0
+2017,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,3,1470000.0
+2017,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,1,1470000.0
 2017,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,138,1470000.0
 2017,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,37,1470000.0
 2017,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",45,1470000.0
 2017,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,1470000.0
 2017,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,51,1470000.0
-2018,Melbourne,3000,Carlton,A Crimes against the person,A20 Assault and related offences,4,1625000.0
+2018,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,4,1625000.0
 2018,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,144,1625000.0
 2018,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,32,1625000.0
 2018,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",44,1625000.0
 2018,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,16,1625000.0
 2018,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,48,1625000.0
-2019,Melbourne,3000,Carlton,A Crimes against the person,Other crimes against the person,1,1308000.0
+2019,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,1,1308000.0
 2019,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,129,1308000.0
 2019,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,43,1308000.0
 2019,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",21,1308000.0
 2019,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,1308000.0
 2019,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,44,1308000.0
-2020,Melbourne,3000,Carlton,A Crimes against the person,A20 Assault and related offences,1,1452500.0
-2020,Melbourne,3000,Carlton,A Crimes against the person,Other crimes against the person,1,1452500.0
+2020,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,1,1452500.0
+2020,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,1,1452500.0
 2020,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,154,1452500.0
 2020,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,33,1452500.0
 2020,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",31,1452500.0
 2020,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,10,1452500.0
 2020,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,37,1452500.0
-2021,Melbourne,3000,Carlton,A Crimes against the person,A20 Assault and related offences,3,1492500.0
+2021,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,3,1492500.0
 2021,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,186,1492500.0
 2021,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,20,1492500.0
 2021,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",28,1492500.0
 2021,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,12,1492500.0
 2021,Melbourne,3053,Carlton,A Crimes against the person,Other crimes against the person,41,1492500.0
-2022,Melbourne,3000,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1600000.0
+2022,Melbourne,3053,Carlton,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1600000.0
 2022,Melbourne,3053,Carlton,A Crimes against the person,A20 Assault and related offences,196,1600000.0
 2022,Melbourne,3053,Carlton,A Crimes against the person,A50 Robbery,27,1600000.0
 2022,Melbourne,3053,Carlton,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",45,1600000.0
@@ -6245,74 +6245,74 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Kingston,3169,Clayton South,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",19,1032500.0
 2022,Kingston,3169,Clayton South,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,1032500.0
 2022,Kingston,3169,Clayton South,A Crimes against the person,Other crimes against the person,24,1032500.0
-2013,Yarra,3066,Clifton Hill,A Crimes against the person,A20 Assault and related offences,2,867000.0
-2013,Yarra,3066,Clifton Hill,A Crimes against the person,A50 Robbery,1,867000.0
-2013,Yarra,3066,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,867000.0
+2013,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,2,867000.0
+2013,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,1,867000.0
+2013,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,867000.0
 2013,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,32,867000.0
 2013,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,3,867000.0
 2013,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,867000.0
 2013,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,867000.0
 2013,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,8,867000.0
-2014,Yarra,3066,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,965000.0
+2014,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,965000.0
 2014,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,17,965000.0
 2014,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,4,965000.0
 2014,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,965000.0
 2014,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,3,965000.0
-2015,Yarra,3066,Clifton Hill,A Crimes against the person,A20 Assault and related offences,2,1085000.0
-2015,Yarra,3066,Clifton Hill,A Crimes against the person,A50 Robbery,1,1085000.0
+2015,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,2,1085000.0
+2015,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,1,1085000.0
 2015,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,28,1085000.0
 2015,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,4,1085000.0
 2015,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",13,1085000.0
 2015,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,1085000.0
 2015,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,3,1085000.0
-2016,Yarra,3066,Clifton Hill,A Crimes against the person,A20 Assault and related offences,1,1220000.0
-2016,Yarra,3067,Clifton Hill,A Crimes against the person,Other crimes against the person,1,1220000.0
+2016,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,1,1220000.0
+2016,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,1,1220000.0
 2016,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,29,1220000.0
 2016,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,1,1220000.0
 2016,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",7,1220000.0
 2016,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,10,1220000.0
 2016,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,6,1220000.0
-2017,Yarra,3066,Clifton Hill,A Crimes against the person,A20 Assault and related offences,3,1390000.0
-2017,Yarra,3066,Clifton Hill,A Crimes against the person,A50 Robbery,1,1390000.0
-2017,Yarra,3066,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1390000.0
-2017,Yarra,3066,Clifton Hill,A Crimes against the person,Other crimes against the person,2,1390000.0
-2017,Yarra,3067,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1390000.0
+2017,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,3,1390000.0
+2017,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,1,1390000.0
+2017,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1390000.0
+2017,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,2,1390000.0
+2017,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1390000.0
 2017,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,29,1390000.0
 2017,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,7,1390000.0
 2017,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",10,1390000.0
 2017,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,1390000.0
 2017,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,3,1390000.0
-2018,Yarra,3066,Clifton Hill,A Crimes against the person,A20 Assault and related offences,5,1364500.0
-2018,Yarra,3066,Clifton Hill,A Crimes against the person,A50 Robbery,1,1364500.0
-2018,Yarra,3066,Clifton Hill,A Crimes against the person,Other crimes against the person,1,1364500.0
-2018,Yarra,3067,Clifton Hill,A Crimes against the person,A20 Assault and related offences,1,1364500.0
+2018,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,5,1364500.0
+2018,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,1,1364500.0
+2018,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,1,1364500.0
+2018,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,1,1364500.0
 2018,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,24,1364500.0
 2018,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,3,1364500.0
 2018,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,1364500.0
 2018,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,1364500.0
 2018,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,11,1364500.0
-2019,Yarra,3066,Clifton Hill,A Crimes against the person,A20 Assault and related offences,1,1348000.0
-2019,Yarra,3066,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1348000.0
-2019,Yarra,3066,Clifton Hill,A Crimes against the person,Other crimes against the person,1,1348000.0
+2019,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,1,1348000.0
+2019,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1348000.0
+2019,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,1,1348000.0
 2019,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,25,1348000.0
 2019,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,4,1348000.0
 2019,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",7,1348000.0
 2019,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,1348000.0
 2019,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,8,1348000.0
-2020,Yarra,3066,Clifton Hill,A Crimes against the person,A20 Assault and related offences,2,1375000.0
+2020,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,2,1375000.0
 2020,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,28,1375000.0
 2020,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,6,1375000.0
 2020,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,1375000.0
 2020,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,1375000.0
 2020,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,7,1375000.0
-2021,Yarra,3067,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1750000.0
+2021,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1750000.0
 2021,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,38,1750000.0
 2021,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,5,1750000.0
 2021,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",6,1750000.0
 2021,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,1750000.0
 2021,Yarra,3068,Clifton Hill,A Crimes against the person,Other crimes against the person,13,1750000.0
-2022,Yarra,3066,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,1670000.0
-2022,Yarra,3067,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1670000.0
+2022,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,1670000.0
+2022,Yarra,3068,Clifton Hill,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1670000.0
 2022,Yarra,3068,Clifton Hill,A Crimes against the person,A20 Assault and related offences,28,1670000.0
 2022,Yarra,3068,Clifton Hill,A Crimes against the person,A50 Robbery,7,1670000.0
 2022,Yarra,3068,Clifton Hill,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1670000.0
@@ -8595,8 +8595,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Buloke,3480,Donald,A Crimes against the person,A20 Assault and related offences,9,225000.0
 2022,Buloke,3480,Donald,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,225000.0
 2022,Buloke,3480,Donald,A Crimes against the person,Other crimes against the person,3,225000.0
-2013,Manningham,3107,Doncaster,A Crimes against the person,A20 Assault and related offences,1,850000.0
-2013,Manningham,3107,Doncaster,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,850000.0
+2013,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,1,850000.0
+2013,Manningham,3108,Doncaster,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,850000.0
 2013,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,88,850000.0
 2013,Manningham,3108,Doncaster,A Crimes against the person,A50 Robbery,7,850000.0
 2013,Manningham,3108,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",20,850000.0
@@ -8607,32 +8607,32 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2014,Manningham,3108,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",37,999000.0
 2014,Manningham,3108,Doncaster,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,999000.0
 2014,Manningham,3108,Doncaster,A Crimes against the person,Other crimes against the person,28,999000.0
-2015,Manningham,3107,Doncaster,A Crimes against the person,A20 Assault and related offences,1,1176000.0
+2015,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,1,1176000.0
 2015,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,71,1176000.0
 2015,Manningham,3108,Doncaster,A Crimes against the person,A50 Robbery,9,1176000.0
 2015,Manningham,3108,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",62,1176000.0
 2015,Manningham,3108,Doncaster,A Crimes against the person,A80 Dangerous and negligent acts endangering people,14,1176000.0
 2015,Manningham,3108,Doncaster,A Crimes against the person,Other crimes against the person,36,1176000.0
-2016,Manningham,3107,Doncaster,A Crimes against the person,A20 Assault and related offences,1,1297500.0
-2016,Manningham,3107,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1297500.0
+2016,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,1,1297500.0
+2016,Manningham,3108,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1297500.0
 2016,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,113,1297500.0
 2016,Manningham,3108,Doncaster,A Crimes against the person,A50 Robbery,9,1297500.0
 2016,Manningham,3108,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",36,1297500.0
 2016,Manningham,3108,Doncaster,A Crimes against the person,A80 Dangerous and negligent acts endangering people,6,1297500.0
 2016,Manningham,3108,Doncaster,A Crimes against the person,Other crimes against the person,18,1297500.0
-2017,Manningham,3107,Doncaster,A Crimes against the person,A20 Assault and related offences,1,1366500.0
+2017,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,1,1366500.0
 2017,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,89,1366500.0
 2017,Manningham,3108,Doncaster,A Crimes against the person,A50 Robbery,13,1366500.0
 2017,Manningham,3108,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",15,1366500.0
 2017,Manningham,3108,Doncaster,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,1366500.0
 2017,Manningham,3108,Doncaster,A Crimes against the person,Other crimes against the person,16,1366500.0
-2018,Manningham,3107,Doncaster,A Crimes against the person,A20 Assault and related offences,1,1320000.0
+2018,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,1,1320000.0
 2018,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,100,1320000.0
 2018,Manningham,3108,Doncaster,A Crimes against the person,A50 Robbery,13,1320000.0
 2018,Manningham,3108,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",28,1320000.0
 2018,Manningham,3108,Doncaster,A Crimes against the person,A80 Dangerous and negligent acts endangering people,6,1320000.0
 2018,Manningham,3108,Doncaster,A Crimes against the person,Other crimes against the person,35,1320000.0
-2019,Manningham,3107,Doncaster,A Crimes against the person,Other crimes against the person,1,1270000.0
+2019,Manningham,3108,Doncaster,A Crimes against the person,Other crimes against the person,1,1270000.0
 2019,Manningham,3108,Doncaster,A Crimes against the person,A20 Assault and related offences,89,1270000.0
 2019,Manningham,3108,Doncaster,A Crimes against the person,A50 Robbery,16,1270000.0
 2019,Manningham,3108,Doncaster,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",27,1270000.0
@@ -10547,7 +10547,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2019,Yarra,3068,Fitzroy North,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",12,1385000.0
 2019,Yarra,3068,Fitzroy North,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,1385000.0
 2019,Yarra,3068,Fitzroy North,A Crimes against the person,Other crimes against the person,10,1385000.0
-2020,Yarra,3065,Fitzroy North,A Crimes against the person,Other crimes against the person,1,1600000.0
+2020,Yarra,3068,Fitzroy North,A Crimes against the person,Other crimes against the person,1,1600000.0
 2020,Yarra,3068,Fitzroy North,A Crimes against the person,A20 Assault and related offences,62,1600000.0
 2020,Yarra,3068,Fitzroy North,A Crimes against the person,A50 Robbery,12,1600000.0
 2020,Yarra,3068,Fitzroy North,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",37,1600000.0
@@ -11107,56 +11107,56 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Cardinia,3814,Garfield,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,795000.0
 2022,Cardinia,3814,Garfield,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,795000.0
 2022,Cardinia,3814,Garfield,A Crimes against the person,Other crimes against the person,2,795000.0
-2013,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,195,500000.0
-2013,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,11,500000.0
-2013,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",65,500000.0
-2013,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,10,500000.0
-2013,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,65,500000.0
-2014,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,162,512000.0
-2014,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,19,512000.0
-2014,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",57,512000.0
-2014,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,16,512000.0
-2014,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,101,512000.0
-2015,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,189,607500.0
-2015,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,10,607500.0
-2015,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",47,607500.0
-2015,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,15,607500.0
-2015,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,56,607500.0
-2016,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,234,590000.0
-2016,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,9,590000.0
-2016,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",55,590000.0
-2016,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,20,590000.0
-2016,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,72,590000.0
-2017,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,228,735000.0
-2017,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,17,735000.0
-2017,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",59,735000.0
-2017,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,27,735000.0
-2017,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,51,735000.0
-2018,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,269,750000.0
-2018,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,18,750000.0
-2018,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",67,750000.0
-2018,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,31,750000.0
-2018,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,81,750000.0
-2019,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,339,720000.0
-2019,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,20,720000.0
-2019,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",76,720000.0
-2019,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,36,720000.0
-2019,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,62,720000.0
-2020,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,196,883500.0
-2020,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,9,883500.0
-2020,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",64,883500.0
-2020,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,24,883500.0
-2020,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,47,883500.0
-2021,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,265,950000.0
-2021,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,17,950000.0
-2021,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",75,950000.0
-2021,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,24,950000.0
-2021,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,76,950000.0
-2022,Greater Geelong,3220,Geelong,A Crimes against the person,A20 Assault and related offences,298,850000.0
-2022,Greater Geelong,3220,Geelong,A Crimes against the person,A50 Robbery,14,850000.0
-2022,Greater Geelong,3220,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",44,850000.0
-2022,Greater Geelong,3220,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,26,850000.0
-2022,Greater Geelong,3220,Geelong,A Crimes against the person,Other crimes against the person,60,850000.0
+2013,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,195,500000.0
+2013,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,11,500000.0
+2013,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",65,500000.0
+2013,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,10,500000.0
+2013,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,65,500000.0
+2014,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,162,512000.0
+2014,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,19,512000.0
+2014,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",57,512000.0
+2014,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,16,512000.0
+2014,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,101,512000.0
+2015,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,189,607500.0
+2015,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,10,607500.0
+2015,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",47,607500.0
+2015,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,15,607500.0
+2015,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,56,607500.0
+2016,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,234,590000.0
+2016,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,9,590000.0
+2016,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",55,590000.0
+2016,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,20,590000.0
+2016,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,72,590000.0
+2017,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,228,735000.0
+2017,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,17,735000.0
+2017,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",59,735000.0
+2017,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,27,735000.0
+2017,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,51,735000.0
+2018,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,269,750000.0
+2018,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,18,750000.0
+2018,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",67,750000.0
+2018,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,31,750000.0
+2018,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,81,750000.0
+2019,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,339,720000.0
+2019,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,20,720000.0
+2019,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",76,720000.0
+2019,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,36,720000.0
+2019,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,62,720000.0
+2020,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,196,883500.0
+2020,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,9,883500.0
+2020,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",64,883500.0
+2020,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,24,883500.0
+2020,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,47,883500.0
+2021,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,265,950000.0
+2021,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,17,950000.0
+2021,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",75,950000.0
+2021,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,24,950000.0
+2021,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,76,950000.0
+2022,Greater Geelong,3219,Geelong,A Crimes against the person,A20 Assault and related offences,298,850000.0
+2022,Greater Geelong,3219,Geelong,A Crimes against the person,A50 Robbery,14,850000.0
+2022,Greater Geelong,3219,Geelong,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",44,850000.0
+2022,Greater Geelong,3219,Geelong,A Crimes against the person,A80 Dangerous and negligent acts endangering people,26,850000.0
+2022,Greater Geelong,3219,Geelong,A Crimes against the person,Other crimes against the person,60,850000.0
 2013,Greater Geelong,3218,Geelong West,A Crimes against the person,A20 Assault and related offences,57,440000.0
 2013,Greater Geelong,3218,Geelong West,A Crimes against the person,A50 Robbery,1,440000.0
 2013,Greater Geelong,3218,Geelong West,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",9,440000.0
@@ -13019,7 +13019,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2015,Bayside,3190,Highett,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",13,992500.0
 2015,Bayside,3190,Highett,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,992500.0
 2015,Bayside,3190,Highett,A Crimes against the person,Other crimes against the person,130,992500.0
-2015,Bayside,3192,Highett,A Crimes against the person,A50 Robbery,1,992500.0
+2015,Bayside,3190,Highett,A Crimes against the person,A50 Robbery,1,992500.0
 2016,Bayside,3190,Highett,A Crimes against the person,A20 Assault and related offences,53,1175000.0
 2016,Bayside,3190,Highett,A Crimes against the person,A50 Robbery,8,1175000.0
 2016,Bayside,3190,Highett,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",14,1175000.0
@@ -13035,8 +13035,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2018,Bayside,3190,Highett,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",16,1275000.0
 2018,Bayside,3190,Highett,A Crimes against the person,A80 Dangerous and negligent acts endangering people,8,1275000.0
 2018,Bayside,3190,Highett,A Crimes against the person,Other crimes against the person,27,1275000.0
-2018,Bayside,3192,Highett,A Crimes against the person,A20 Assault and related offences,2,1275000.0
-2018,Bayside,3192,Highett,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1275000.0
+2018,Bayside,3190,Highett,A Crimes against the person,A20 Assault and related offences,2,1275000.0
+2018,Bayside,3190,Highett,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1275000.0
 2019,Bayside,3190,Highett,A Crimes against the person,A20 Assault and related offences,72,1234000.0
 2019,Bayside,3190,Highett,A Crimes against the person,A50 Robbery,4,1234000.0
 2019,Bayside,3190,Highett,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",18,1234000.0
@@ -13052,7 +13052,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Bayside,3190,Highett,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",10,1585500.0
 2021,Bayside,3190,Highett,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,1585500.0
 2021,Bayside,3190,Highett,A Crimes against the person,Other crimes against the person,14,1585500.0
-2021,Bayside,3192,Highett,A Crimes against the person,A20 Assault and related offences,1,1585500.0
+2021,Bayside,3190,Highett,A Crimes against the person,A20 Assault and related offences,1,1585500.0
 2022,Bayside,3190,Highett,A Crimes against the person,A20 Assault and related offences,62,1560000.0
 2022,Bayside,3190,Highett,A Crimes against the person,A50 Robbery,4,1560000.0
 2022,Bayside,3190,Highett,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",8,1560000.0
@@ -13312,42 +13312,42 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Monash,3166,Huntingdale,A Crimes against the person,A20 Assault and related offences,17,1225000.0
 2022,Monash,3166,Huntingdale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,1225000.0
 2022,Monash,3166,Huntingdale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,1225000.0
-2013,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,2,337500.0
-2013,Greater Bendigo,3551,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,337500.0
-2013,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,3,337500.0
-2014,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,5,325000.0
-2014,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,1,325000.0
-2015,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,3,355000.0
-2015,Greater Bendigo,3551,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",3,355000.0
-2015,Greater Bendigo,3551,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,355000.0
-2015,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,10,355000.0
-2016,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,5,340000.0
-2016,Greater Bendigo,3551,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,340000.0
-2016,Greater Bendigo,3551,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,340000.0
-2016,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,5,340000.0
-2017,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,12,335000.0
-2017,Greater Bendigo,3551,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,335000.0
-2017,Greater Bendigo,3551,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,335000.0
-2017,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,10,335000.0
-2018,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,13,357500.0
-2018,Greater Bendigo,3551,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,357500.0
-2018,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,5,357500.0
-2019,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,20,367500.0
-2019,Greater Bendigo,3551,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",9,367500.0
-2019,Greater Bendigo,3551,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,7,367500.0
-2019,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,5,367500.0
-2020,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,13,388000.0
-2020,Greater Bendigo,3551,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",6,388000.0
-2020,Greater Bendigo,3551,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,388000.0
-2020,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,15,388000.0
-2021,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,28,486000.0
-2021,Greater Bendigo,3551,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,486000.0
-2021,Greater Bendigo,3551,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,486000.0
-2021,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,8,486000.0
-2022,Greater Bendigo,3551,Huntly,A Crimes against the person,A20 Assault and related offences,23,548000.0
-2022,Greater Bendigo,3551,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",8,548000.0
-2022,Greater Bendigo,3551,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,548000.0
-2022,Greater Bendigo,3551,Huntly,A Crimes against the person,Other crimes against the person,20,548000.0
+2013,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,2,337500.0
+2013,Greater Bendigo,3163,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,337500.0
+2013,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,3,337500.0
+2014,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,5,325000.0
+2014,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,1,325000.0
+2015,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,3,355000.0
+2015,Greater Bendigo,3163,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",3,355000.0
+2015,Greater Bendigo,3163,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,355000.0
+2015,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,10,355000.0
+2016,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,5,340000.0
+2016,Greater Bendigo,3163,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,340000.0
+2016,Greater Bendigo,3163,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,340000.0
+2016,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,5,340000.0
+2017,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,12,335000.0
+2017,Greater Bendigo,3163,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,335000.0
+2017,Greater Bendigo,3163,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,335000.0
+2017,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,10,335000.0
+2018,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,13,357500.0
+2018,Greater Bendigo,3163,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,5,357500.0
+2018,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,5,357500.0
+2019,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,20,367500.0
+2019,Greater Bendigo,3163,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",9,367500.0
+2019,Greater Bendigo,3163,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,7,367500.0
+2019,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,5,367500.0
+2020,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,13,388000.0
+2020,Greater Bendigo,3163,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",6,388000.0
+2020,Greater Bendigo,3163,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,388000.0
+2020,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,15,388000.0
+2021,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,28,486000.0
+2021,Greater Bendigo,3163,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,486000.0
+2021,Greater Bendigo,3163,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,486000.0
+2021,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,8,486000.0
+2022,Greater Bendigo,3163,Huntly,A Crimes against the person,A20 Assault and related offences,23,548000.0
+2022,Greater Bendigo,3163,Huntly,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",8,548000.0
+2022,Greater Bendigo,3163,Huntly,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,548000.0
+2022,Greater Bendigo,3163,Huntly,A Crimes against the person,Other crimes against the person,20,548000.0
 2013,Nillumbik,3099,Hurstbridge,A Crimes against the person,A20 Assault and related offences,6,482000.0
 2013,Nillumbik,3099,Hurstbridge,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,482000.0
 2013,Nillumbik,3099,Hurstbridge,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,482000.0
@@ -13644,7 +13644,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2015,Banyule,3079,Ivanhoe East,A Crimes against the person,A20 Assault and related offences,8,1542500.0
 2015,Banyule,3079,Ivanhoe East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,1542500.0
 2015,Banyule,3079,Ivanhoe East,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,1542500.0
-2015,Banyule,3084,Ivanhoe East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1542500.0
+2015,Banyule,3079,Ivanhoe East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1542500.0
 2016,Banyule,3079,Ivanhoe East,A Crimes against the person,A20 Assault and related offences,9,1764500.0
 2016,Banyule,3079,Ivanhoe East,A Crimes against the person,A50 Robbery,1,1764500.0
 2016,Banyule,3079,Ivanhoe East,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,1764500.0
@@ -21807,40 +21807,40 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Bass Coast,3984,Pioneer Bay,A Crimes against the person,A20 Assault and related offences,1,354000.0
 2021,Bass Coast,3984,Pioneer Bay,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5,354000.0
 2022,Bass Coast,3984,Pioneer Bay,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,550000.0
-2013,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,2,773000.0
-2013,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,773000.0
-2013,Nillumbik,3090,Plenty,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,773000.0
-2013,Nillumbik,3090,Plenty,A Crimes against the person,Other crimes against the person,4,773000.0
-2014,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,6,750000.0
-2014,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,750000.0
-2014,Nillumbik,3090,Plenty,A Crimes against the person,Other crimes against the person,2,750000.0
-2015,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,3,915500.0
-2015,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,915500.0
-2015,Nillumbik,3090,Plenty,A Crimes against the person,Other crimes against the person,3,915500.0
-2016,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,3,935000.0
-2016,Nillumbik,3090,Plenty,A Crimes against the person,A50 Robbery,2,935000.0
-2016,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5,935000.0
-2016,Nillumbik,3090,Plenty,A Crimes against the person,Other crimes against the person,2,935000.0
-2017,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,10,1145000.0
-2017,Nillumbik,3090,Plenty,A Crimes against the person,A50 Robbery,1,1145000.0
-2017,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5,1145000.0
-2017,Nillumbik,3090,Plenty,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,1145000.0
-2017,Nillumbik,3090,Plenty,A Crimes against the person,Other crimes against the person,15,1145000.0
-2018,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,2,1350000.0
-2018,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",3,1350000.0
-2018,Nillumbik,3090,Plenty,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1350000.0
-2018,Nillumbik,3090,Plenty,A Crimes against the person,Other crimes against the person,1,1350000.0
-2019,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,2,1301000.0
-2019,Nillumbik,3090,Plenty,A Crimes against the person,A50 Robbery,1,1301000.0
-2019,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1301000.0
-2019,Nillumbik,3090,Plenty,A Crimes against the person,Other crimes against the person,2,1301000.0
-2020,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,9,1202500.0
-2020,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,1202500.0
-2021,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,4,1610000.0
-2021,Nillumbik,3090,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1610000.0
-2021,Nillumbik,3090,Plenty,A Crimes against the person,Other crimes against the person,1,1610000.0
-2022,Nillumbik,3090,Plenty,A Crimes against the person,A20 Assault and related offences,2,1600000.0
-2022,Nillumbik,3090,Plenty,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1600000.0
+2013,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,2,773000.0
+2013,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,773000.0
+2013,Nillumbik,3093,Plenty,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,773000.0
+2013,Nillumbik,3093,Plenty,A Crimes against the person,Other crimes against the person,4,773000.0
+2014,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,6,750000.0
+2014,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,750000.0
+2014,Nillumbik,3093,Plenty,A Crimes against the person,Other crimes against the person,2,750000.0
+2015,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,3,915500.0
+2015,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,915500.0
+2015,Nillumbik,3093,Plenty,A Crimes against the person,Other crimes against the person,3,915500.0
+2016,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,3,935000.0
+2016,Nillumbik,3093,Plenty,A Crimes against the person,A50 Robbery,2,935000.0
+2016,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5,935000.0
+2016,Nillumbik,3093,Plenty,A Crimes against the person,Other crimes against the person,2,935000.0
+2017,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,10,1145000.0
+2017,Nillumbik,3093,Plenty,A Crimes against the person,A50 Robbery,1,1145000.0
+2017,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5,1145000.0
+2017,Nillumbik,3093,Plenty,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,1145000.0
+2017,Nillumbik,3093,Plenty,A Crimes against the person,Other crimes against the person,15,1145000.0
+2018,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,2,1350000.0
+2018,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",3,1350000.0
+2018,Nillumbik,3093,Plenty,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1350000.0
+2018,Nillumbik,3093,Plenty,A Crimes against the person,Other crimes against the person,1,1350000.0
+2019,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,2,1301000.0
+2019,Nillumbik,3093,Plenty,A Crimes against the person,A50 Robbery,1,1301000.0
+2019,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1301000.0
+2019,Nillumbik,3093,Plenty,A Crimes against the person,Other crimes against the person,2,1301000.0
+2020,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,9,1202500.0
+2020,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,1202500.0
+2021,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,4,1610000.0
+2021,Nillumbik,3093,Plenty,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,1610000.0
+2021,Nillumbik,3093,Plenty,A Crimes against the person,Other crimes against the person,1,1610000.0
+2022,Nillumbik,3093,Plenty,A Crimes against the person,A20 Assault and related offences,2,1600000.0
+2022,Nillumbik,3093,Plenty,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1600000.0
 2013,Wyndham,3030,Point Cook,A Crimes against the person,A20 Assault and related offences,118,450000.0
 2013,Wyndham,3030,Point Cook,A Crimes against the person,A50 Robbery,7,450000.0
 2013,Wyndham,3030,Point Cook,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",22,450000.0
@@ -22295,7 +22295,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2020,Stonnington,3181,Prahran,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",28,1650000.0
 2020,Stonnington,3181,Prahran,A Crimes against the person,A80 Dangerous and negligent acts endangering people,14,1650000.0
 2020,Stonnington,3181,Prahran,A Crimes against the person,Other crimes against the person,49,1650000.0
-2021,Stonnington,3143,Prahran,A Crimes against the person,A20 Assault and related offences,1,1830000.0
+2021,Stonnington,3181,Prahran,A Crimes against the person,A20 Assault and related offences,1,1830000.0
 2021,Stonnington,3181,Prahran,A Crimes against the person,A20 Assault and related offences,222,1830000.0
 2021,Stonnington,3181,Prahran,A Crimes against the person,A50 Robbery,23,1830000.0
 2021,Stonnington,3181,Prahran,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",34,1830000.0
@@ -22754,56 +22754,56 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Bass Coast,3923,Rhyll,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,781500.0
 2021,Bass Coast,3923,Rhyll,A Crimes against the person,Other crimes against the person,9,781500.0
 2022,Bass Coast,3923,Rhyll,A Crimes against the person,Other crimes against the person,3,935000.0
-2013,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,220,900000.0
-2013,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,47,900000.0
-2013,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",45,900000.0
-2013,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,12,900000.0
-2013,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,43,900000.0
-2014,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,179,961000.0
-2014,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,22,961000.0
-2014,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",56,961000.0
-2014,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,11,961000.0
-2014,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,67,961000.0
-2015,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,236,1150000.0
-2015,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,33,1150000.0
-2015,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",51,1150000.0
-2015,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,14,1150000.0
-2015,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,54,1150000.0
-2016,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,255,1265000.0
-2016,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,39,1265000.0
-2016,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",76,1265000.0
-2016,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,20,1265000.0
-2016,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,61,1265000.0
-2017,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,271,1302500.0
-2017,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,36,1302500.0
-2017,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",52,1302500.0
-2017,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,21,1302500.0
-2017,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,56,1302500.0
-2018,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,262,1312000.0
-2018,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,34,1312000.0
-2018,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",68,1312000.0
-2018,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,34,1312000.0
-2018,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,82,1312000.0
-2019,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,297,1260000.0
-2019,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,67,1260000.0
-2019,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",92,1260000.0
-2019,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,17,1260000.0
-2019,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,60,1260000.0
-2020,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,290,1365000.0
-2020,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,43,1365000.0
-2020,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",60,1365000.0
-2020,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,1365000.0
-2020,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,52,1365000.0
-2021,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,300,1480000.0
-2021,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,28,1480000.0
-2021,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",87,1480000.0
-2021,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,28,1480000.0
-2021,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,72,1480000.0
-2022,Yarra,3121,Richmond,A Crimes against the person,A20 Assault and related offences,349,1385000.0
-2022,Yarra,3121,Richmond,A Crimes against the person,A50 Robbery,24,1385000.0
-2022,Yarra,3121,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",76,1385000.0
-2022,Yarra,3121,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,25,1385000.0
-2022,Yarra,3121,Richmond,A Crimes against the person,Other crimes against the person,76,1385000.0
+2013,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,220,900000.0
+2013,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,47,900000.0
+2013,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",45,900000.0
+2013,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,12,900000.0
+2013,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,43,900000.0
+2014,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,179,961000.0
+2014,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,22,961000.0
+2014,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",56,961000.0
+2014,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,11,961000.0
+2014,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,67,961000.0
+2015,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,236,1150000.0
+2015,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,33,1150000.0
+2015,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",51,1150000.0
+2015,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,14,1150000.0
+2015,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,54,1150000.0
+2016,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,255,1265000.0
+2016,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,39,1265000.0
+2016,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",76,1265000.0
+2016,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,20,1265000.0
+2016,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,61,1265000.0
+2017,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,271,1302500.0
+2017,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,36,1302500.0
+2017,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",52,1302500.0
+2017,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,21,1302500.0
+2017,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,56,1302500.0
+2018,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,262,1312000.0
+2018,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,34,1312000.0
+2018,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",68,1312000.0
+2018,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,34,1312000.0
+2018,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,82,1312000.0
+2019,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,297,1260000.0
+2019,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,67,1260000.0
+2019,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",92,1260000.0
+2019,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,17,1260000.0
+2019,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,60,1260000.0
+2020,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,290,1365000.0
+2020,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,43,1365000.0
+2020,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",60,1365000.0
+2020,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,1365000.0
+2020,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,52,1365000.0
+2021,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,300,1480000.0
+2021,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,28,1480000.0
+2021,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",87,1480000.0
+2021,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,28,1480000.0
+2021,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,72,1480000.0
+2022,Yarra,3305,Richmond,A Crimes against the person,A20 Assault and related offences,349,1385000.0
+2022,Yarra,3305,Richmond,A Crimes against the person,A50 Robbery,24,1385000.0
+2022,Yarra,3305,Richmond,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",76,1385000.0
+2022,Yarra,3305,Richmond,A Crimes against the person,A80 Dangerous and negligent acts endangering people,25,1385000.0
+2022,Yarra,3305,Richmond,A Crimes against the person,Other crimes against the person,76,1385000.0
 2013,Macedon Ranges,3431,Riddells Creek,A Crimes against the person,A20 Assault and related offences,13,450000.0
 2013,Macedon Ranges,3431,Riddells Creek,A Crimes against the person,A50 Robbery,1,450000.0
 2013,Macedon Ranges,3431,Riddells Creek,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",14,450000.0
@@ -23664,56 +23664,56 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Greater Bendigo,3556,Sailors Gully,A Crimes against the person,Other crimes against the person,1,390000.0
 2022,Greater Bendigo,3556,Sailors Gully,A Crimes against the person,A20 Assault and related offences,2,470000.0
 2022,Greater Bendigo,3556,Sailors Gully,A Crimes against the person,Other crimes against the person,1,470000.0
-2013,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,252,290000.0
-2013,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,8,290000.0
-2013,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",72,290000.0
-2013,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,11,290000.0
-2013,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,74,290000.0
-2014,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,244,300000.0
-2014,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,3,300000.0
-2014,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",90,300000.0
-2014,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,300000.0
-2014,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,50,300000.0
-2015,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,280,298000.0
-2015,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,3,298000.0
-2015,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",96,298000.0
-2015,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,15,298000.0
-2015,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,109,298000.0
-2016,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,282,295500.0
-2016,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,2,295500.0
-2016,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",75,295500.0
-2016,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,21,295500.0
-2016,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,133,295500.0
-2017,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,259,300000.0
-2017,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,5,300000.0
-2017,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",45,300000.0
-2017,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,26,300000.0
-2017,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,114,300000.0
-2018,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,252,309500.0
-2018,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,3,309500.0
-2018,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",64,309500.0
-2018,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,12,309500.0
-2018,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,126,309500.0
-2019,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,324,325000.0
-2019,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,7,325000.0
-2019,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",93,325000.0
-2019,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,32,325000.0
-2019,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,113,325000.0
-2020,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,272,345000.0
-2020,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,1,345000.0
-2020,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",65,345000.0
-2020,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,32,345000.0
-2020,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,52,345000.0
-2021,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,286,399500.0
-2021,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,11,399500.0
-2021,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",64,399500.0
-2021,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,34,399500.0
-2021,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,123,399500.0
-2022,Wellington,3850,Sale,A Crimes against the person,A20 Assault and related offences,250,515000.0
-2022,Wellington,3850,Sale,A Crimes against the person,A50 Robbery,9,515000.0
-2022,Wellington,3850,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",73,515000.0
-2022,Wellington,3850,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,44,515000.0
-2022,Wellington,3850,Sale,A Crimes against the person,Other crimes against the person,139,515000.0
+2013,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,252,290000.0
+2013,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,8,290000.0
+2013,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",72,290000.0
+2013,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,11,290000.0
+2013,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,74,290000.0
+2014,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,244,300000.0
+2014,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,3,300000.0
+2014,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",90,300000.0
+2014,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,300000.0
+2014,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,50,300000.0
+2015,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,280,298000.0
+2015,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,3,298000.0
+2015,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",96,298000.0
+2015,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,15,298000.0
+2015,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,109,298000.0
+2016,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,282,295500.0
+2016,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,2,295500.0
+2016,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",75,295500.0
+2016,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,21,295500.0
+2016,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,133,295500.0
+2017,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,259,300000.0
+2017,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,5,300000.0
+2017,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",45,300000.0
+2017,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,26,300000.0
+2017,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,114,300000.0
+2018,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,252,309500.0
+2018,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,3,309500.0
+2018,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",64,309500.0
+2018,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,12,309500.0
+2018,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,126,309500.0
+2019,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,324,325000.0
+2019,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,7,325000.0
+2019,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",93,325000.0
+2019,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,32,325000.0
+2019,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,113,325000.0
+2020,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,272,345000.0
+2020,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,1,345000.0
+2020,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",65,345000.0
+2020,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,32,345000.0
+2020,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,52,345000.0
+2021,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,286,399500.0
+2021,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,11,399500.0
+2021,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",64,399500.0
+2021,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,34,399500.0
+2021,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,123,399500.0
+2022,Wellington,3852,Sale,A Crimes against the person,A20 Assault and related offences,250,515000.0
+2022,Wellington,3852,Sale,A Crimes against the person,A50 Robbery,9,515000.0
+2022,Wellington,3852,Sale,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",73,515000.0
+2022,Wellington,3852,Sale,A Crimes against the person,A80 Dangerous and negligent acts endangering people,44,515000.0
+2022,Wellington,3852,Sale,A Crimes against the person,Other crimes against the person,139,515000.0
 2013,Bass Coast,3925,San Remo,A Crimes against the person,A20 Assault and related offences,9,410000.0
 2013,Bass Coast,3925,San Remo,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,410000.0
 2013,Bass Coast,3925,San Remo,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,410000.0
@@ -23867,8 +23867,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2019,Yarra Ranges,3787,Sassafras,A Crimes against the person,Other crimes against the person,2,805000.0
 2020,Yarra Ranges,3787,Sassafras,A Crimes against the person,A20 Assault and related offences,2,770000.0
 2020,Yarra Ranges,3787,Sassafras,A Crimes against the person,Other crimes against the person,2,770000.0
-2021,Yarra Ranges,3154,Sassafras,A Crimes against the person,A20 Assault and related offences,1,860000.0
-2021,Yarra Ranges,3154,Sassafras,A Crimes against the person,Other crimes against the person,1,860000.0
+2021,Yarra Ranges,3787,Sassafras,A Crimes against the person,A20 Assault and related offences,1,860000.0
+2021,Yarra Ranges,3787,Sassafras,A Crimes against the person,Other crimes against the person,1,860000.0
 2021,Yarra Ranges,3787,Sassafras,A Crimes against the person,A20 Assault and related offences,1,860000.0
 2021,Yarra Ranges,3787,Sassafras,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,860000.0
 2021,Yarra Ranges,3787,Sassafras,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,860000.0
@@ -25218,7 +25218,7 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2016,Brimbank,3021,St Albans,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",60,500000.0
 2016,Brimbank,3021,St Albans,A Crimes against the person,A80 Dangerous and negligent acts endangering people,37,500000.0
 2016,Brimbank,3021,St Albans,A Crimes against the person,Other crimes against the person,96,500000.0
-2017,Brimbank,3020,St Albans,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,610000.0
+2017,Brimbank,3021,St Albans,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,610000.0
 2017,Brimbank,3021,St Albans,A Crimes against the person,A20 Assault and related offences,367,610000.0
 2017,Brimbank,3021,St Albans,A Crimes against the person,A50 Robbery,78,610000.0
 2017,Brimbank,3021,St Albans,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",81,610000.0
@@ -26318,37 +26318,37 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Brimbank,3037,Sydenham,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",29,675000.0
 2022,Brimbank,3037,Sydenham,A Crimes against the person,A80 Dangerous and negligent acts endangering people,13,675000.0
 2022,Brimbank,3037,Sydenham,A Crimes against the person,Other crimes against the person,7,675000.0
-2013,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,4,154000.0
-2013,Towong,3700,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,154000.0
-2013,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,1,154000.0
-2014,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,2,200000.0
-2014,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,2,200000.0
-2015,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,5,233000.0
-2015,Towong,3700,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,233000.0
-2015,Towong,3700,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,233000.0
-2015,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,2,233000.0
-2016,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,12,216000.0
-2016,Towong,3700,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,216000.0
-2016,Towong,3700,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,216000.0
-2016,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,7,216000.0
-2017,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,5,275000.0
-2017,Towong,3700,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,275000.0
-2017,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,2,275000.0
-2018,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,3,245000.0
-2018,Towong,3700,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,245000.0
-2018,Towong,3700,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,245000.0
-2018,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,3,245000.0
-2019,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,8,257500.0
-2019,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,12,257500.0
-2020,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,5,280000.0
-2020,Towong,3700,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,280000.0
-2020,Towong,3700,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,280000.0
-2020,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,5,280000.0
-2021,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,9,350000.0
-2021,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,10,350000.0
-2022,Towong,3700,Tallangatta,A Crimes against the person,A20 Assault and related offences,7,432000.0
-2022,Towong,3700,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,432000.0
-2022,Towong,3700,Tallangatta,A Crimes against the person,Other crimes against the person,10,432000.0
+2013,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,4,154000.0
+2013,Towong,3701,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,154000.0
+2013,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,1,154000.0
+2014,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,2,200000.0
+2014,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,2,200000.0
+2015,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,5,233000.0
+2015,Towong,3701,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,233000.0
+2015,Towong,3701,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,233000.0
+2015,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,2,233000.0
+2016,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,12,216000.0
+2016,Towong,3701,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,216000.0
+2016,Towong,3701,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,216000.0
+2016,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,7,216000.0
+2017,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,5,275000.0
+2017,Towong,3701,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,275000.0
+2017,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,2,275000.0
+2018,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,3,245000.0
+2018,Towong,3701,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,245000.0
+2018,Towong,3701,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,245000.0
+2018,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,3,245000.0
+2019,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,8,257500.0
+2019,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,12,257500.0
+2020,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,5,280000.0
+2020,Towong,3701,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,280000.0
+2020,Towong,3701,Tallangatta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,280000.0
+2020,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,5,280000.0
+2021,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,9,350000.0
+2021,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,10,350000.0
+2022,Towong,3701,Tallangatta,A Crimes against the person,A20 Assault and related offences,7,432000.0
+2022,Towong,3701,Tallangatta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,432000.0
+2022,Towong,3701,Tallangatta,A Crimes against the person,Other crimes against the person,10,432000.0
 2013,Wyndham,3029,Tarneit,A Crimes against the person,A20 Assault and related offences,111,371000.0
 2013,Wyndham,3029,Tarneit,A Crimes against the person,A50 Robbery,9,371000.0
 2013,Wyndham,3029,Tarneit,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",28,371000.0
@@ -28009,54 +28009,54 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Yarra Ranges,3139,Wandin North,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,900000.0
 2022,Yarra Ranges,3139,Wandin North,A Crimes against the person,A80 Dangerous and negligent acts endangering people,6,900000.0
 2022,Yarra Ranges,3139,Wandin North,A Crimes against the person,Other crimes against the person,6,900000.0
-2013,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,204,240000.0
-2013,Wangaratta,3677,Wangaratta,A Crimes against the person,A50 Robbery,4,240000.0
-2013,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",77,240000.0
-2013,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,240000.0
-2013,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,61,240000.0
-2014,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,200,255000.0
-2014,Wangaratta,3677,Wangaratta,A Crimes against the person,A50 Robbery,1,255000.0
-2014,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",70,255000.0
-2014,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,37,255000.0
-2014,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,47,255000.0
-2015,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,201,272000.0
-2015,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",61,272000.0
-2015,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,22,272000.0
-2015,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,46,272000.0
-2016,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,223,270500.0
-2016,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",63,270500.0
-2016,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,33,270500.0
-2016,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,78,270500.0
-2017,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,218,270000.0
-2017,Wangaratta,3677,Wangaratta,A Crimes against the person,A50 Robbery,5,270000.0
-2017,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",75,270000.0
-2017,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,38,270000.0
-2017,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,60,270000.0
-2018,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,201,320000.0
-2018,Wangaratta,3677,Wangaratta,A Crimes against the person,A50 Robbery,4,320000.0
-2018,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",72,320000.0
-2018,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,39,320000.0
-2018,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,68,320000.0
-2019,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,201,319000.0
-2019,Wangaratta,3677,Wangaratta,A Crimes against the person,A50 Robbery,8,319000.0
-2019,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",59,319000.0
-2019,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,33,319000.0
-2019,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,118,319000.0
-2020,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,214,356500.0
-2020,Wangaratta,3677,Wangaratta,A Crimes against the person,A50 Robbery,3,356500.0
-2020,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",68,356500.0
-2020,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,20,356500.0
-2020,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,71,356500.0
-2021,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,237,425000.0
-2021,Wangaratta,3677,Wangaratta,A Crimes against the person,A50 Robbery,2,425000.0
-2021,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",86,425000.0
-2021,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,425000.0
-2021,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,52,425000.0
-2022,Wangaratta,3677,Wangaratta,A Crimes against the person,A20 Assault and related offences,187,530000.0
-2022,Wangaratta,3677,Wangaratta,A Crimes against the person,A50 Robbery,5,530000.0
-2022,Wangaratta,3677,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",57,530000.0
-2022,Wangaratta,3677,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,27,530000.0
-2022,Wangaratta,3677,Wangaratta,A Crimes against the person,Other crimes against the person,99,530000.0
+2013,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,204,240000.0
+2013,Wangaratta,3678,Wangaratta,A Crimes against the person,A50 Robbery,4,240000.0
+2013,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",77,240000.0
+2013,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,240000.0
+2013,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,61,240000.0
+2014,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,200,255000.0
+2014,Wangaratta,3678,Wangaratta,A Crimes against the person,A50 Robbery,1,255000.0
+2014,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",70,255000.0
+2014,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,37,255000.0
+2014,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,47,255000.0
+2015,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,201,272000.0
+2015,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",61,272000.0
+2015,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,22,272000.0
+2015,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,46,272000.0
+2016,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,223,270500.0
+2016,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",63,270500.0
+2016,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,33,270500.0
+2016,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,78,270500.0
+2017,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,218,270000.0
+2017,Wangaratta,3678,Wangaratta,A Crimes against the person,A50 Robbery,5,270000.0
+2017,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",75,270000.0
+2017,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,38,270000.0
+2017,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,60,270000.0
+2018,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,201,320000.0
+2018,Wangaratta,3678,Wangaratta,A Crimes against the person,A50 Robbery,4,320000.0
+2018,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",72,320000.0
+2018,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,39,320000.0
+2018,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,68,320000.0
+2019,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,201,319000.0
+2019,Wangaratta,3678,Wangaratta,A Crimes against the person,A50 Robbery,8,319000.0
+2019,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",59,319000.0
+2019,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,33,319000.0
+2019,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,118,319000.0
+2020,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,214,356500.0
+2020,Wangaratta,3678,Wangaratta,A Crimes against the person,A50 Robbery,3,356500.0
+2020,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",68,356500.0
+2020,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,20,356500.0
+2020,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,71,356500.0
+2021,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,237,425000.0
+2021,Wangaratta,3678,Wangaratta,A Crimes against the person,A50 Robbery,2,425000.0
+2021,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",86,425000.0
+2021,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,425000.0
+2021,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,52,425000.0
+2022,Wangaratta,3678,Wangaratta,A Crimes against the person,A20 Assault and related offences,187,530000.0
+2022,Wangaratta,3678,Wangaratta,A Crimes against the person,A50 Robbery,5,530000.0
+2022,Wangaratta,3678,Wangaratta,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",57,530000.0
+2022,Wangaratta,3678,Wangaratta,A Crimes against the person,A80 Dangerous and negligent acts endangering people,27,530000.0
+2022,Wangaratta,3678,Wangaratta,A Crimes against the person,Other crimes against the person,99,530000.0
 2013,Knox,3152,Wantirna,A Crimes against the person,A20 Assault and related offences,40,576000.0
 2013,Knox,3152,Wantirna,A Crimes against the person,A50 Robbery,7,576000.0
 2013,Knox,3152,Wantirna,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",12,576000.0
@@ -28151,8 +28151,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2021,Knox,3152,Wantirna South,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",13,1222000.0
 2021,Knox,3152,Wantirna South,A Crimes against the person,A80 Dangerous and negligent acts endangering people,24,1222000.0
 2021,Knox,3152,Wantirna South,A Crimes against the person,Other crimes against the person,28,1222000.0
-2021,Knox,3155,Wantirna South,A Crimes against the person,A20 Assault and related offences,4,1222000.0
-2021,Knox,3155,Wantirna South,A Crimes against the person,Other crimes against the person,1,1222000.0
+2021,Knox,3152,Wantirna South,A Crimes against the person,A20 Assault and related offences,4,1222000.0
+2021,Knox,3152,Wantirna South,A Crimes against the person,Other crimes against the person,1,1222000.0
 2022,Knox,3152,Wantirna South,A Crimes against the person,A20 Assault and related offences,96,1336000.0
 2022,Knox,3152,Wantirna South,A Crimes against the person,A50 Robbery,7,1336000.0
 2022,Knox,3152,Wantirna South,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",26,1336000.0
@@ -28676,75 +28676,75 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Melton,3338,Weir Views,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",14,593500.0
 2022,Melton,3338,Weir Views,A Crimes against the person,A80 Dangerous and negligent acts endangering people,9,593500.0
 2022,Melton,3338,Weir Views,A Crimes against the person,Other crimes against the person,6,593500.0
-2013,South Gippsland,3966,Welshpool,A Crimes against the person,A20 Assault and related offences,1,166000.0
-2013,South Gippsland,3966,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,166000.0
-2013,South Gippsland,3966,Welshpool,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,166000.0
-2014,South Gippsland,3966,Welshpool,A Crimes against the person,A20 Assault and related offences,1,193000.0
-2014,South Gippsland,3966,Welshpool,A Crimes against the person,Other crimes against the person,1,193000.0
-2015,South Gippsland,3966,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",3,272500.0
-2016,South Gippsland,3966,Welshpool,A Crimes against the person,A20 Assault and related offences,1,180000.0
-2016,South Gippsland,3966,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,180000.0
-2016,South Gippsland,3966,Welshpool,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,180000.0
-2016,South Gippsland,3966,Welshpool,A Crimes against the person,Other crimes against the person,1,180000.0
-2017,South Gippsland,3966,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,230000.0
-2017,South Gippsland,3966,Welshpool,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,230000.0
-2017,South Gippsland,3966,Welshpool,A Crimes against the person,Other crimes against the person,1,230000.0
-2018,South Gippsland,3966,Welshpool,A Crimes against the person,A20 Assault and related offences,3,259000.0
-2019,South Gippsland,3966,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,300000.0
-2021,South Gippsland,3966,Welshpool,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,380000.0
-2021,South Gippsland,3966,Welshpool,A Crimes against the person,Other crimes against the person,3,380000.0
-2022,South Gippsland,3966,Welshpool,A Crimes against the person,A20 Assault and related offences,1,400000.0
-2022,South Gippsland,3966,Welshpool,A Crimes against the person,Other crimes against the person,1,400000.0
-2013,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,133,243000.0
-2013,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,6,243000.0
-2013,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",26,243000.0
-2013,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,15,243000.0
-2013,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,48,243000.0
-2014,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,141,247000.0
-2014,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,4,247000.0
-2014,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",21,247000.0
-2014,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,16,247000.0
-2014,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,145,247000.0
-2015,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,139,250000.0
-2015,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,7,250000.0
-2015,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",17,250000.0
-2015,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,21,250000.0
-2015,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,64,250000.0
-2016,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,148,252500.0
-2016,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,4,252500.0
-2016,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",18,252500.0
-2016,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,30,252500.0
-2016,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,104,252500.0
-2017,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,175,267500.0
-2017,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,9,267500.0
-2017,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",33,267500.0
-2017,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,25,267500.0
-2017,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,64,267500.0
-2018,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,138,326000.0
-2018,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,10,326000.0
-2018,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",25,326000.0
-2018,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,326000.0
-2018,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,65,326000.0
-2019,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,116,335000.0
-2019,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,10,335000.0
-2019,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",23,335000.0
-2019,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,11,335000.0
-2019,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,63,335000.0
-2020,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,132,370000.0
-2020,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,4,370000.0
-2020,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",17,370000.0
-2020,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,31,370000.0
-2020,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,39,370000.0
-2021,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,101,465000.0
-2021,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,4,465000.0
-2021,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",17,465000.0
-2021,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,23,465000.0
-2021,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,44,465000.0
-2022,Ballarat,3355,Wendouree,A Crimes against the person,A20 Assault and related offences,134,495000.0
-2022,Ballarat,3355,Wendouree,A Crimes against the person,A50 Robbery,4,495000.0
-2022,Ballarat,3355,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",26,495000.0
-2022,Ballarat,3355,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,30,495000.0
-2022,Ballarat,3355,Wendouree,A Crimes against the person,Other crimes against the person,38,495000.0
+2013,South Gippsland,3965,Welshpool,A Crimes against the person,A20 Assault and related offences,1,166000.0
+2013,South Gippsland,3965,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,166000.0
+2013,South Gippsland,3965,Welshpool,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,166000.0
+2014,South Gippsland,3965,Welshpool,A Crimes against the person,A20 Assault and related offences,1,193000.0
+2014,South Gippsland,3965,Welshpool,A Crimes against the person,Other crimes against the person,1,193000.0
+2015,South Gippsland,3965,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",3,272500.0
+2016,South Gippsland,3965,Welshpool,A Crimes against the person,A20 Assault and related offences,1,180000.0
+2016,South Gippsland,3965,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,180000.0
+2016,South Gippsland,3965,Welshpool,A Crimes against the person,A80 Dangerous and negligent acts endangering people,2,180000.0
+2016,South Gippsland,3965,Welshpool,A Crimes against the person,Other crimes against the person,1,180000.0
+2017,South Gippsland,3965,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,230000.0
+2017,South Gippsland,3965,Welshpool,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,230000.0
+2017,South Gippsland,3965,Welshpool,A Crimes against the person,Other crimes against the person,1,230000.0
+2018,South Gippsland,3965,Welshpool,A Crimes against the person,A20 Assault and related offences,3,259000.0
+2019,South Gippsland,3965,Welshpool,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,300000.0
+2021,South Gippsland,3965,Welshpool,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,380000.0
+2021,South Gippsland,3965,Welshpool,A Crimes against the person,Other crimes against the person,3,380000.0
+2022,South Gippsland,3965,Welshpool,A Crimes against the person,A20 Assault and related offences,1,400000.0
+2022,South Gippsland,3965,Welshpool,A Crimes against the person,Other crimes against the person,1,400000.0
+2013,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,133,243000.0
+2013,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,6,243000.0
+2013,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",26,243000.0
+2013,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,15,243000.0
+2013,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,48,243000.0
+2014,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,141,247000.0
+2014,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,4,247000.0
+2014,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",21,247000.0
+2014,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,16,247000.0
+2014,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,145,247000.0
+2015,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,139,250000.0
+2015,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,7,250000.0
+2015,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",17,250000.0
+2015,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,21,250000.0
+2015,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,64,250000.0
+2016,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,148,252500.0
+2016,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,4,252500.0
+2016,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",18,252500.0
+2016,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,30,252500.0
+2016,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,104,252500.0
+2017,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,175,267500.0
+2017,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,9,267500.0
+2017,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",33,267500.0
+2017,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,25,267500.0
+2017,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,64,267500.0
+2018,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,138,326000.0
+2018,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,10,326000.0
+2018,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",25,326000.0
+2018,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,18,326000.0
+2018,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,65,326000.0
+2019,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,116,335000.0
+2019,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,10,335000.0
+2019,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",23,335000.0
+2019,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,11,335000.0
+2019,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,63,335000.0
+2020,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,132,370000.0
+2020,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,4,370000.0
+2020,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",17,370000.0
+2020,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,31,370000.0
+2020,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,39,370000.0
+2021,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,101,465000.0
+2021,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,4,465000.0
+2021,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",17,465000.0
+2021,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,23,465000.0
+2021,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,44,465000.0
+2022,Ballarat,3350,Wendouree,A Crimes against the person,A20 Assault and related offences,134,495000.0
+2022,Ballarat,3350,Wendouree,A Crimes against the person,A50 Robbery,4,495000.0
+2022,Ballarat,3350,Wendouree,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",26,495000.0
+2022,Ballarat,3350,Wendouree,A Crimes against the person,A80 Dangerous and negligent acts endangering people,30,495000.0
+2022,Ballarat,3350,Wendouree,A Crimes against the person,Other crimes against the person,38,495000.0
 2013,Wyndham,3030,Werribee,A Crimes against the person,A20 Assault and related offences,315,309000.0
 2013,Wyndham,3030,Werribee,A Crimes against the person,A50 Robbery,29,309000.0
 2013,Wyndham,3030,Werribee,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",94,309000.0
@@ -29475,8 +29475,8 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2014,Stonnington,3181,Windsor,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,956500.0
 2014,Stonnington,3181,Windsor,A Crimes against the person,A80 Dangerous and negligent acts endangering people,4,956500.0
 2014,Stonnington,3181,Windsor,A Crimes against the person,Other crimes against the person,9,956500.0
-2015,Stonnington,3004,Windsor,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1094000.0
-2015,Stonnington,3004,Windsor,A Crimes against the person,Other crimes against the person,1,1094000.0
+2015,Stonnington,3181,Windsor,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,1094000.0
+2015,Stonnington,3181,Windsor,A Crimes against the person,Other crimes against the person,1,1094000.0
 2015,Stonnington,3181,Windsor,A Crimes against the person,A20 Assault and related offences,60,1094000.0
 2015,Stonnington,3181,Windsor,A Crimes against the person,A50 Robbery,4,1094000.0
 2015,Stonnington,3181,Windsor,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",23,1094000.0
@@ -30319,42 +30319,42 @@ Year,Local Government Area,Postcode,Suburb/Town Name,Offence Division,Offence Su
 2022,Moira,3730,Yarrawonga,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",20,695000.0
 2022,Moira,3730,Yarrawonga,A Crimes against the person,A80 Dangerous and negligent acts endangering people,6,695000.0
 2022,Moira,3730,Yarrawonga,A Crimes against the person,Other crimes against the person,14,695000.0
-2013,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,11,260000.0
-2013,Murrindindi,3717,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",3,260000.0
-2013,Murrindindi,3717,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,260000.0
-2013,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,14,260000.0
-2014,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,16,255000.0
-2014,Murrindindi,3717,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",7,255000.0
-2014,Murrindindi,3717,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,255000.0
-2014,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,3,255000.0
-2015,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,5,260000.0
-2015,Murrindindi,3717,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,260000.0
-2015,Murrindindi,3717,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,260000.0
-2015,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,3,260000.0
-2016,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,10,305000.0
-2016,Murrindindi,3717,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",10,305000.0
-2016,Murrindindi,3717,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,9,305000.0
-2016,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,3,305000.0
-2017,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,8,385000.0
-2017,Murrindindi,3717,Yea,A Crimes against the person,A50 Robbery,1,385000.0
-2017,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,2,385000.0
-2018,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,7,390000.0
-2018,Murrindindi,3717,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5,390000.0
-2018,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,5,390000.0
-2019,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,6,435500.0
-2019,Murrindindi,3717,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,435500.0
-2019,Murrindindi,3717,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,435500.0
-2019,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,4,435500.0
-2020,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,11,422500.0
-2020,Murrindindi,3717,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,422500.0
-2020,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,4,422500.0
-2021,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,14,560000.0
-2021,Murrindindi,3717,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,560000.0
-2021,Murrindindi,3717,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,560000.0
-2021,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,1,560000.0
-2022,Murrindindi,3717,Yea,A Crimes against the person,A20 Assault and related offences,14,610000.0
-2022,Murrindindi,3717,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,610000.0
-2022,Murrindindi,3717,Yea,A Crimes against the person,Other crimes against the person,5,610000.0
+2013,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,11,260000.0
+2013,Murrindindi,3755,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",3,260000.0
+2013,Murrindindi,3755,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,260000.0
+2013,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,14,260000.0
+2014,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,16,255000.0
+2014,Murrindindi,3755,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",7,255000.0
+2014,Murrindindi,3755,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,255000.0
+2014,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,3,255000.0
+2015,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,5,260000.0
+2015,Murrindindi,3755,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4,260000.0
+2015,Murrindindi,3755,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,260000.0
+2015,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,3,260000.0
+2016,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,10,305000.0
+2016,Murrindindi,3755,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",10,305000.0
+2016,Murrindindi,3755,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,9,305000.0
+2016,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,3,305000.0
+2017,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,8,385000.0
+2017,Murrindindi,3755,Yea,A Crimes against the person,A50 Robbery,1,385000.0
+2017,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,2,385000.0
+2018,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,7,390000.0
+2018,Murrindindi,3755,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5,390000.0
+2018,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,5,390000.0
+2019,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,6,435500.0
+2019,Murrindindi,3755,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2,435500.0
+2019,Murrindindi,3755,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,435500.0
+2019,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,4,435500.0
+2020,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,11,422500.0
+2020,Murrindindi,3755,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,422500.0
+2020,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,4,422500.0
+2021,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,14,560000.0
+2021,Murrindindi,3755,Yea,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,560000.0
+2021,Murrindindi,3755,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,560000.0
+2021,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,1,560000.0
+2022,Murrindindi,3755,Yea,A Crimes against the person,A20 Assault and related offences,14,610000.0
+2022,Murrindindi,3755,Yea,A Crimes against the person,A80 Dangerous and negligent acts endangering people,3,610000.0
+2022,Murrindindi,3755,Yea,A Crimes against the person,Other crimes against the person,5,610000.0
 2013,Latrobe,3869,Yinnar,A Crimes against the person,A20 Assault and related offences,4,220000.0
 2013,Latrobe,3869,Yinnar,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",1,220000.0
 2013,Latrobe,3869,Yinnar,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1,220000.0
