@@ -52,16 +52,6 @@ And the following from merging on postcode
 | 2125 of 2851 unique suburbs in Crime table match localities in Property table | 75% |
 | 789 of 820 unique localities in Property table match suburbs in Crime table | 96% |
 
+3 Jupyter files - prj_one_Crime_Vs_Property, crime_vs_property_analysis, 2022_Crime_Analysis containing the code for the plots, cleaning and merging
 
-* Data analysis
-
-To do
-* Testing
-
-To do
-* Creating documentation
-
-To do
-* Creating the presentation
-
-To do
+Final PResentation Slides
