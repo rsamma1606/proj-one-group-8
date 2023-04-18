@@ -54,4 +54,4 @@ And the following from merging on postcode
 
 4 Jupyter files - prj_one_Crime_Vs_Property, prj_one_crime_visualisations, crime_vs_property_analysis, 2022_Crime_Analysis containing the code for the plots, cleaning and merging
 
-Final Presentation Slides included in the PDF within Main
+Final Presentation Slides included in prj-one-group-8_FINAL_PRESENTATION.pdf within Main: https://github.com/rsamma1606/proj-one-group-8/blob/main/proj-one-group-8_FINAL_PRESENTATION.pdf
